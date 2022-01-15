@@ -2,7 +2,7 @@
   {
     "name": "minedu.sk",
     "url": "https://www.minedu.sk/",
-    "icon": "https://favicons.githubusercontent.com/www.minedu.sk",
+    "icon": "https://www.minedu.sk/favicon.ico",
     "slug": "minedu-sk",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1131,
-    "timeDay": 1131,
-    "timeWeek": 1131,
-    "timeMonth": 1131,
-    "timeYear": 1131,
+    "time": 1020,
+    "timeDay": 1020,
+    "timeWeek": 1020,
+    "timeMonth": 1020,
+    "timeYear": 1020,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2665,
-    "timeDay": 2665,
-    "timeWeek": 2665,
-    "timeMonth": 2665,
-    "timeYear": 2665,
+    "time": 2611,
+    "timeDay": 2611,
+    "timeWeek": 2611,
+    "timeMonth": 2611,
+    "timeYear": 2611,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2078,
-    "timeDay": 2078,
-    "timeWeek": 2078,
-    "timeMonth": 2078,
-    "timeYear": 2078,
+    "time": 1919,
+    "timeDay": 1919,
+    "timeWeek": 1919,
+    "timeMonth": 1919,
+    "timeYear": 1919,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1504,
-    "timeDay": 1504,
-    "timeWeek": 1504,
-    "timeMonth": 1504,
-    "timeYear": 1504,
+    "time": 1463,
+    "timeDay": 1463,
+    "timeWeek": 1463,
+    "timeMonth": 1463,
+    "timeYear": 1463,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1026,
-    "timeDay": 1026,
-    "timeWeek": 1026,
-    "timeMonth": 1026,
-    "timeYear": 1026,
+    "time": 945,
+    "timeDay": 945,
+    "timeWeek": 945,
+    "timeMonth": 945,
+    "timeYear": 945,
     "dailyMinutesDown": {}
   }
 ]
