@@ -22,8 +22,8 @@ status-website:
  
   baseUrl: /minedusk-uptime
   logoUrl: https://www.minedu.sk/assets/default/img/logo-minedu-sk.svg
-  name: minedusk-uptime
-  introTitle: "Monitorovanie dostupnnosti webových stránok v rezorte školstva"
+  name: MŠVVaŠ SR
+  introTitle: "Monitorovanie dostupnnosti webových stránok"
   #introMessage: ""
   navbar:
     - title: Status
