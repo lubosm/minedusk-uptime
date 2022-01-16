@@ -3,17 +3,66 @@ owner: lubosm # Your GitHub organization or username, where this repository live
 repo: minedusk-uptime # The name of this repository
 
 sites:
-  - name: minedu.sk
+  - name: Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky
     url: https://www.minedu.sk/
     icon: https://www.minedu.sk/favicon.ico
-  - name: skolskysport.sk
+
+  - name: Školský šport
     url: https://skolskysport.sk/
-  - name: vedatechnika.sk
+
+  - name: Centrálny informačný portál pre výskum, vývoj a inovácie
     url: https://www.vedatechnika.sk/
-  - name: edicnyportal.iedu.sk  
+
+  - name: Edičný portál
     url: https://edicnyportal.iedu.sk/
-  - name: etwinning.sk
+
+  - name: eTwinning
     url: http://www.etwinning.sk/
+
+  - name: Výskumný ústav detskej psychológie a patopsychológie
+    url: https://vudpap.sk/
+
+  - name: IUVENTA
+    url: https://www.iuventa.sk/
+
+  - name: Domov Speváckeho zboru slovenských učiteľov
+    url: https://www.dszsu.sk/
+
+  - name: Národné športové centrum
+    url: https://narodnesportovecentrum.sk/
+
+  - name: Centrum vedecko-technických informácií SR
+    url: https://www.cvtisr.sk/
+
+  - name: Antidopingová agentúra SR
+    url: https://www.antidoping.sk/
+
+  - name: Štátny pedagogický ústav
+    url: https://www.statpedu.sk/
+
+  - name: Štátny inštitút odborného vzdelávania
+    url: https://siov.sk/
+
+  - name: Štátna školská inšpekcia
+    url: https://www.ssi.sk/
+
+  - name: Slovenský historický ústav v Ríme
+    url: http://www.shur.sk/
+
+  - name: Národný ústav certifikovaných meraní vzdelávania
+    url: https://www.nucem.sk/
+
+  - name: Metodicko-pedagogické centrum
+    url: https://mpc-edu.sk/
+
+  - name: Výskumná agentúra
+    url: http://www.vyskumnaagentura.sk/sk/
+
+  - name: Agentúra na podporu výskumu a vývoja
+    url: https://www.apvv.sk/
+
+  #Centrálne úložisko digitálneho edukačného obsahu
+  #https://viki.iedu.sk
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
