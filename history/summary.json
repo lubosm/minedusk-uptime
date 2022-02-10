@@ -310,19 +310,19 @@
     "url": "https://mpc-edu.sk/",
     "icon": "https://favicons.githubusercontent.com/mpc-edu.sk",
     "slug": "metodicko-pedagogicke-centrum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 947,
-    "timeWeek": 960,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 985,
+    "timeDay": 1008,
+    "timeWeek": 979,
+    "timeMonth": 985,
+    "timeYear": 985,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 6
     }
   },
   {
