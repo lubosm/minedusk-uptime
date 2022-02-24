@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 1248,
     "timeDay": 1119,
-    "timeWeek": 1183,
-    "timeMonth": 1271,
+    "timeWeek": 1180,
+    "timeMonth": 1272,
     "timeYear": 1248,
     "dailyMinutesDown": {}
   },
@@ -22,19 +22,19 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://favicons.githubusercontent.com/skolskysport.sk",
     "slug": "skolsky-sport",
-    "status": "down",
-    "uptime": "98.52%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "98.52%",
-    "time": 8718,
-    "timeDay": 6874,
-    "timeWeek": 11819,
-    "timeMonth": 9460,
-    "timeYear": 8718,
+    "status": "up",
+    "uptime": "98.51%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "98.51%",
+    "time": 8781,
+    "timeDay": 10859,
+    "timeWeek": 11876,
+    "timeMonth": 9598,
+    "timeYear": 8781,
     "dailyMinutesDown": {
-      "2022-02-24": 0,
+      "2022-02-24": 9,
       "2022-02-19": 46,
       "2022-02-18": 237,
       "2022-02-17": 60,
@@ -55,7 +55,7 @@
     "time": 2319,
     "timeDay": 2624,
     "timeWeek": 2257,
-    "timeMonth": 2317,
+    "timeMonth": 2316,
     "timeYear": 2319,
     "dailyMinutesDown": {}
   },
@@ -73,7 +73,7 @@
     "time": 1800,
     "timeDay": 1992,
     "timeWeek": 1544,
-    "timeMonth": 1835,
+    "timeMonth": 1839,
     "timeYear": 1800,
     "dailyMinutesDown": {}
   },
@@ -91,7 +91,7 @@
     "time": 1182,
     "timeDay": 1595,
     "timeWeek": 1341,
-    "timeMonth": 1213,
+    "timeMonth": 1209,
     "timeYear": 1182,
     "dailyMinutesDown": {}
   },
@@ -109,7 +109,7 @@
     "time": 3626,
     "timeDay": 3914,
     "timeWeek": 3119,
-    "timeMonth": 3364,
+    "timeMonth": 3327,
     "timeYear": 3626,
     "dailyMinutesDown": {}
   },
@@ -127,7 +127,7 @@
     "time": 3973,
     "timeDay": 2902,
     "timeWeek": 2681,
-    "timeMonth": 2679,
+    "timeMonth": 2656,
     "timeYear": 3973,
     "dailyMinutesDown": {
       "2022-01-24": 92
@@ -147,7 +147,7 @@
     "time": 1188,
     "timeDay": 1480,
     "timeWeek": 1242,
-    "timeMonth": 1204,
+    "timeMonth": 1150,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2022-02-24": 53
@@ -189,7 +189,7 @@
     "time": 3671,
     "timeDay": 3547,
     "timeWeek": 3068,
-    "timeMonth": 3616,
+    "timeMonth": 3625,
     "timeYear": 3671,
     "dailyMinutesDown": {}
   },
@@ -207,7 +207,7 @@
     "time": 1278,
     "timeDay": 1462,
     "timeWeek": 1271,
-    "timeMonth": 1277,
+    "timeMonth": 1275,
     "timeYear": 1278,
     "dailyMinutesDown": {}
   },
@@ -225,7 +225,7 @@
     "time": 2532,
     "timeDay": 2168,
     "timeWeek": 1675,
-    "timeMonth": 2546,
+    "timeMonth": 2561,
     "timeYear": 2532,
     "dailyMinutesDown": {
       "2022-02-06": 134
@@ -245,7 +245,7 @@
     "time": 1387,
     "timeDay": 1687,
     "timeWeek": 1520,
-    "timeMonth": 1406,
+    "timeMonth": 1404,
     "timeYear": 1387,
     "dailyMinutesDown": {}
   },
@@ -263,7 +263,7 @@
     "time": 4410,
     "timeDay": 3389,
     "timeWeek": 3749,
-    "timeMonth": 4401,
+    "timeMonth": 4375,
     "timeYear": 4410,
     "dailyMinutesDown": {}
   },
@@ -281,7 +281,7 @@
     "time": 671,
     "timeDay": 795,
     "timeWeek": 677,
-    "timeMonth": 654,
+    "timeMonth": 650,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2022-01-17": 32
@@ -301,7 +301,7 @@
     "time": 1764,
     "timeDay": 8582,
     "timeWeek": 2280,
-    "timeMonth": 1598,
+    "timeMonth": 1596,
     "timeYear": 1764,
     "dailyMinutesDown": {
       "2022-02-10": 18,
@@ -325,7 +325,7 @@
     "time": 971,
     "timeDay": 1191,
     "timeWeek": 958,
-    "timeMonth": 961,
+    "timeMonth": 958,
     "timeYear": 971,
     "dailyMinutesDown": {
       "2022-02-11": 141,
@@ -346,7 +346,7 @@
     "time": 1216,
     "timeDay": 1351,
     "timeWeek": 1179,
-    "timeMonth": 1187,
+    "timeMonth": 1179,
     "timeYear": 1216,
     "dailyMinutesDown": {}
   },
@@ -364,7 +364,7 @@
     "time": 2247,
     "timeDay": 2588,
     "timeWeek": 2386,
-    "timeMonth": 2363,
+    "timeMonth": 2362,
     "timeYear": 2247,
     "dailyMinutesDown": {
       "2022-01-24": 41
