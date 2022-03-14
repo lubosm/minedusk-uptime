@@ -223,7 +223,7 @@
     "uptimeYear": "99.84%",
     "time": 2317,
     "timeDay": 1969,
-    "timeWeek": 1986,
+    "timeWeek": 1990,
     "timeMonth": 1774,
     "timeYear": 2317,
     "dailyMinutesDown": {
@@ -292,9 +292,9 @@
     "url": "https://www.nucem.sk/",
     "icon": "https://favicons.githubusercontent.com/www.nucem.sk",
     "slug": "narodny-ustav-certifikovanych-merani-vzdelavania",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
@@ -304,6 +304,7 @@
     "timeMonth": 1790,
     "timeYear": 1718,
     "dailyMinutesDown": {
+      "2022-03-14": 0,
       "2022-02-10": 18,
       "2022-02-06": 29,
       "2022-02-04": 16,
