@@ -117,9 +117,9 @@
     "url": "https://www.iuventa.sk/",
     "icon": "https://favicons.githubusercontent.com/www.iuventa.sk",
     "slug": "iuventa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -129,6 +129,7 @@
     "timeMonth": 2996,
     "timeYear": 3735,
     "dailyMinutesDown": {
+      "2022-03-15": 0,
       "2022-01-24": 92
     }
   },
