@@ -108,7 +108,7 @@
     "time": 3535,
     "timeDay": 3180,
     "timeWeek": 3467,
-    "timeMonth": 3370,
+    "timeMonth": 3347,
     "timeYear": 3535,
     "dailyMinutesDown": {}
   },
@@ -254,19 +254,19 @@
     "url": "https://www.ssi.sk/",
     "icon": "https://favicons.githubusercontent.com/www.ssi.sk",
     "slug": "statna-skolska-inspekcia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3931,
-    "timeDay": 2177,
-    "timeWeek": 3347,
-    "timeMonth": 3292,
-    "timeYear": 3931,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
+    "time": 3924,
+    "timeDay": 2584,
+    "timeWeek": 3353,
+    "timeMonth": 3295,
+    "timeYear": 3924,
     "dailyMinutesDown": {
-      "2022-03-28": 0
+      "2022-03-28": 39
     }
   },
   {
