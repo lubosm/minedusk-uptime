@@ -13,7 +13,7 @@
     "time": 1266,
     "timeDay": 1164,
     "timeWeek": 1364,
-    "timeMonth": 1276,
+    "timeMonth": 1278,
     "timeYear": 1266,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/skolskysport.sk",
     "slug": "skolsky-sport",
     "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.19%",
     "time": 7956,
     "timeDay": 10034,
     "timeWeek": 5559,
     "timeMonth": 5120,
     "timeYear": 7956,
     "dailyMinutesDown": {
-      "2022-03-29": 8,
       "2022-02-19": 46,
       "2022-02-18": 237,
       "2022-02-17": 60,
@@ -54,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 2745,
     "timeDay": 2669,
-    "timeWeek": 5323,
+    "timeWeek": 2431,
     "timeMonth": 3244,
     "timeYear": 2745,
     "dailyMinutesDown": {}
@@ -109,7 +108,7 @@
     "time": 3536,
     "timeDay": 3609,
     "timeWeek": 3477,
-    "timeMonth": 3384,
+    "timeMonth": 3375,
     "timeYear": 3536,
     "dailyMinutesDown": {}
   },
@@ -181,9 +180,9 @@
     "url": "https://www.cvtisr.sk/",
     "icon": "https://favicons.githubusercontent.com/www.cvtisr.sk",
     "slug": "centrum-vedecko-technickych-informacii-sr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -192,7 +191,9 @@
     "timeWeek": 4323,
     "timeMonth": 3631,
     "timeYear": 3650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 0
+    }
   },
   {
     "name": "Antidopingová agentúra SR",
