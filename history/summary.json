@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 1274,
     "timeDay": 1333,
-    "timeWeek": 1264,
-    "timeMonth": 1312,
+    "timeWeek": 1284,
+    "timeMonth": 1323,
     "timeYear": 1274,
     "dailyMinutesDown": {}
   },
@@ -30,7 +30,7 @@
     "uptimeYear": "99.27%",
     "time": 8201,
     "timeDay": 3342,
-    "timeWeek": 10359,
+    "timeWeek": 10130,
     "timeMonth": 7192,
     "timeYear": 8201,
     "dailyMinutesDown": {
@@ -216,9 +216,9 @@
     "url": "https://www.statpedu.sk/",
     "icon": "https://favicons.githubusercontent.com/www.statpedu.sk",
     "slug": "statny-pedagogicky-ustav",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
@@ -228,6 +228,7 @@
     "timeMonth": 1705,
     "timeYear": 2110,
     "dailyMinutesDown": {
+      "2022-04-06": 0,
       "2022-03-29": 17,
       "2022-02-06": 134
     }
@@ -304,7 +305,7 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.87%",
     "time": 1744,
-    "timeDay": 4787,
+    "timeDay": 6093,
     "timeWeek": 2115,
     "timeMonth": 1813,
     "timeYear": 1744,
