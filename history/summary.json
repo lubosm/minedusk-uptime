@@ -55,7 +55,7 @@
     "time": 2775,
     "timeDay": 2751,
     "timeWeek": 2396,
-    "timeMonth": 2515,
+    "timeMonth": 2300,
     "timeYear": 2775,
     "dailyMinutesDown": {}
   },
@@ -82,10 +82,10 @@
     "url": "http://www.etwinning.sk/",
     "icon": "https://favicons.githubusercontent.com/www.etwinning.sk",
     "slug": "e-twinning",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1236,
@@ -93,7 +93,9 @@
     "timeWeek": 1145,
     "timeMonth": 1151,
     "timeYear": 1236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-11": 1
+    }
   },
   {
     "name": "Výskumný ústav detskej psychológie a patopsychológie",
@@ -306,7 +308,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1744,
-    "timeDay": 1291,
+    "timeDay": 1603,
     "timeWeek": 1215,
     "timeMonth": 1881,
     "timeYear": 1744,
