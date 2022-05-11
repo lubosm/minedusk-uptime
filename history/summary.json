@@ -82,19 +82,19 @@
     "url": "http://www.etwinning.sk/",
     "icon": "https://favicons.githubusercontent.com/www.etwinning.sk",
     "slug": "e-twinning",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1236,
     "timeDay": 1249,
     "timeWeek": 1153,
     "timeMonth": 1153,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2022-05-11": 9
+      "2022-05-11": 0
     }
   },
   {
@@ -309,8 +309,8 @@
     "uptimeYear": "99.91%",
     "time": 1744,
     "timeDay": 1603,
-    "timeWeek": 1215,
-    "timeMonth": 1881,
+    "timeWeek": 1278,
+    "timeMonth": 1922,
     "timeYear": 1744,
     "dailyMinutesDown": {
       "2022-03-15": 34,
