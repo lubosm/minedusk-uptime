@@ -181,9 +181,9 @@
     "url": "https://www.cvtisr.sk/",
     "icon": "https://favicons.githubusercontent.com/www.cvtisr.sk",
     "slug": "centrum-vedecko-technickych-informacii-sr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -192,7 +192,9 @@
     "timeWeek": 2949,
     "timeMonth": 3155,
     "timeYear": 3525,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   },
   {
     "name": "Antidopingová agentúra SR",
