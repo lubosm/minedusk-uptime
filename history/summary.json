@@ -82,9 +82,9 @@
     "url": "http://www.etwinning.sk/",
     "icon": "https://favicons.githubusercontent.com/www.etwinning.sk",
     "slug": "e-twinning",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +93,9 @@
     "timeWeek": 1139,
     "timeMonth": 1114,
     "timeYear": 1210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-28": 0
+    }
   },
   {
     "name": "Výskumný ústav detskej psychológie a patopsychológie",
