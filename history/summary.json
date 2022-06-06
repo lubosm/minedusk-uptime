@@ -53,7 +53,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4074,
-    "timeDay": 6661,
+    "timeDay": 6727,
     "timeWeek": 5252,
     "timeMonth": 4864,
     "timeYear": 4074,
@@ -186,10 +186,10 @@
     "url": "https://www.cvtisr.sk/",
     "icon": "https://favicons.githubusercontent.com/www.cvtisr.sk",
     "slug": "centrum-vedecko-technickych-informacii-sr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.47%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.46%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.91%",
     "time": 3508,
@@ -198,6 +198,7 @@
     "timeMonth": 3287,
     "timeYear": 3508,
     "dailyMinutesDown": {
+      "2022-06-06": 1,
       "2022-06-02": 155,
       "2022-05-18": 26
     }
