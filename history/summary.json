@@ -31,7 +31,7 @@
     "time": 6917,
     "timeDay": 1653,
     "timeWeek": 1971,
-    "timeMonth": 3653,
+    "timeMonth": 3525,
     "timeYear": 6917,
     "dailyMinutesDown": {
       "2022-05-06": 41,
@@ -236,7 +236,7 @@
     "time": 2010,
     "timeDay": 1358,
     "timeWeek": 1299,
-    "timeMonth": 1876,
+    "timeMonth": 1694,
     "timeYear": 2010,
     "dailyMinutesDown": {
       "2022-04-26": 17,
@@ -267,9 +267,9 @@
     "url": "https://www.ssi.sk/",
     "icon": "https://favicons.githubusercontent.com/www.ssi.sk",
     "slug": "statna-skolska-inspekcia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -279,6 +279,7 @@
     "timeMonth": 3936,
     "timeYear": 4053,
     "dailyMinutesDown": {
+      "2022-06-17": 0,
       "2022-03-28": 39
     }
   },
@@ -312,9 +313,9 @@
     "slug": "narodny-ustav-certifikovanych-merani-vzdelavania",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1813,
     "timeDay": 1176,
@@ -322,7 +323,6 @@
     "timeMonth": 1996,
     "timeYear": 1813,
     "dailyMinutesDown": {
-      "2022-06-17": 5,
       "2022-03-15": 34,
       "2022-02-10": 18,
       "2022-02-06": 29,
