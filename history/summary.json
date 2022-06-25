@@ -107,17 +107,17 @@
     "url": "https://vudpap.sk/",
     "icon": "https://favicons.githubusercontent.com/vudpap.sk",
     "slug": "vyskumny-ustav-detskej-psychologie-a-patopsychologie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3030,
-    "timeDay": 1747,
-    "timeWeek": 2141,
-    "timeMonth": 2180,
-    "timeYear": 3030,
+    "time": 3032,
+    "timeDay": 1926,
+    "timeWeek": 2186,
+    "timeMonth": 2193,
+    "timeYear": 3032,
     "dailyMinutesDown": {}
   },
   {
@@ -381,8 +381,8 @@
     "status": "down",
     "uptime": "99.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.55%",
-    "uptimeMonth": "95.29%",
+    "uptimeWeek": "79.49%",
+    "uptimeMonth": "95.28%",
     "uptimeYear": "99.09%",
     "time": 2334,
     "timeDay": 0,
@@ -390,7 +390,7 @@
     "timeMonth": 2253,
     "timeYear": 2334,
     "dailyMinutesDown": {
-      "2022-06-25": 1362,
+      "2022-06-25": 1368,
       "2022-06-24": 699,
       "2022-01-24": 41
     }
