@@ -55,7 +55,7 @@
     "time": 3880,
     "timeDay": 1689,
     "timeWeek": 2012,
-    "timeMonth": 4895,
+    "timeMonth": 4835,
     "timeYear": 3880,
     "dailyMinutesDown": {}
   },
@@ -315,9 +315,9 @@
     "url": "https://www.nucem.sk/",
     "icon": "https://favicons.githubusercontent.com/www.nucem.sk",
     "slug": "narodny-ustav-certifikovanych-merani-vzdelavania",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -327,6 +327,7 @@
     "timeMonth": 1484,
     "timeYear": 1776,
     "dailyMinutesDown": {
+      "2022-07-05": 0,
       "2022-03-15": 34,
       "2022-02-10": 18,
       "2022-02-06": 29,
