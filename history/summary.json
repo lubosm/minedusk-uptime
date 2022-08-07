@@ -85,8 +85,8 @@
     "status": "down",
     "uptime": "96.29%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.79%",
-    "uptimeMonth": "84.02%",
+    "uptimeWeek": "60.69%",
+    "uptimeMonth": "83.99%",
     "uptimeYear": "96.29%",
     "time": 1194,
     "timeDay": 0,
@@ -94,7 +94,8 @@
     "timeMonth": 1197,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2022-08-06": 1437,
+      "2022-08-07": 7,
+      "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1076,
       "2022-07-11": 454,
@@ -157,9 +158,9 @@
     "slug": "domov-spevackeho-zboru-slovenskych-ucitelov",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1311,
     "timeDay": 1192,
@@ -167,7 +168,6 @@
     "timeMonth": 1317,
     "timeYear": 1311,
     "dailyMinutesDown": {
-      "2022-08-06": 6,
       "2022-02-24": 53
     }
   },
