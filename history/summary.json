@@ -384,19 +384,19 @@
     "url": "http://www.vyskumnaagentura.sk/sk/",
     "icon": "https://favicons.githubusercontent.com/www.vyskumnaagentura.sk",
     "slug": "vyskumna-agentura",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1312,
-    "timeDay": 1091,
-    "timeWeek": 1372,
-    "timeMonth": 1336,
-    "timeYear": 1312,
+    "time": 1309,
+    "timeDay": 883,
+    "timeWeek": 1285,
+    "timeMonth": 1315,
+    "timeYear": 1309,
     "dailyMinutesDown": {
-      "2022-08-24": 1
+      "2022-08-24": 5
     }
   },
   {
