@@ -136,11 +136,11 @@
     "url": "https://www.dszsu.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dszsu.sk.ico",
     "slug": "domov-spevackeho-zboru-slovenskych-ucitelov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1303,
     "timeDay": 3030,
@@ -148,7 +148,7 @@
     "timeMonth": 1354,
     "timeYear": 1303,
     "dailyMinutesDown": {
-      "2022-10-28": 28,
+      "2022-10-28": 23,
       "2022-02-24": 53
     }
   },
