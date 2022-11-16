@@ -213,9 +213,9 @@
     "url": "https://www.antidoping.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.antidoping.sk.ico",
     "slug": "antidopingova-agentura-sr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -225,6 +225,7 @@
     "timeMonth": 1361,
     "timeYear": 1281,
     "dailyMinutesDown": {
+      "2022-11-16": 0,
       "2022-08-16": 808
     }
   },
