@@ -7,8 +7,8 @@ sites:
     url: https://www.minedu.sk/
     icon: https://www.minedu.sk/favicon.ico
 
-  #- name: Školský šport
-  # url: https://skolskysport.sk/
+  - name: Školský šport
+    url: https://skolskysport.sk/
 
   - name: Centrálny informačný portál pre výskum, vývoj a inovácie
     url: https://www.vedatechnika.sk/
@@ -61,8 +61,8 @@ sites:
   - name: Agentúra na podporu výskumu a vývoja
     url: https://www.apvv.sk/
 
-  #Centrálne úložisko digitálneho edukačného obsahu
-  #https://viki.iedu.sk
+  - name: Centrálne úložisko digitálneho edukačného obsahu
+    url: https://viki.iedu.sk
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
