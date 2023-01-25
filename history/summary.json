@@ -34,7 +34,7 @@
     "timeMonth": 825,
     "timeYear": 2513,
     "dailyMinutesDown": {
-      "2023-01-25": 522,
+      "2023-01-25": 534,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -108,18 +108,16 @@
     "slug": "edicny-portal",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1584,
     "timeDay": 1981,
     "timeWeek": 1556,
     "timeMonth": 1496,
     "timeYear": 1581,
-    "dailyMinutesDown": {
-      "2023-01-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "eTwinning",
@@ -128,9 +126,9 @@
     "slug": "e-twinning",
     "status": "up",
     "uptime": "96.84%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.76%",
     "time": 1222,
     "timeDay": 1399,
@@ -138,7 +136,6 @@
     "timeMonth": 1291,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2022-12-09": 517,
       "2022-12-08": 730,
       "2022-11-16": 62,
@@ -210,10 +207,10 @@
     "url": "https://www.dszsu.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dszsu.sk.ico",
     "slug": "domov-spevackeho-zboru-slovenskych-ucitelov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1268,
@@ -222,6 +219,7 @@
     "timeMonth": 1452,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-10-28": 22,
       "2022-02-24": 53
     }
