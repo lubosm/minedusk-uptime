@@ -34,7 +34,7 @@
     "timeMonth": 825,
     "timeYear": 2513,
     "dailyMinutesDown": {
-      "2023-01-25": 868,
+      "2023-01-25": 871,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -340,19 +340,19 @@
     "url": "https://siov.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/siov.sk.ico",
     "slug": "statny-institut-odborneho-vzdelavania",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1459,
-    "timeDay": 1010,
-    "timeWeek": 1300,
-    "timeMonth": 1397,
-    "timeYear": 1462,
+    "time": 1457,
+    "timeDay": 1018,
+    "timeWeek": 1265,
+    "timeMonth": 1385,
+    "timeYear": 1461,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 3
     }
   },
   {
