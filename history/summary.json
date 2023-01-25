@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "down",
-    "uptime": "21.75%",
+    "uptime": "21.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.75%",
+    "uptimeYear": "21.73%",
     "time": 2564,
     "timeDay": 0,
     "timeWeek": 809,
     "timeMonth": 825,
     "timeYear": 2513,
     "dailyMinutesDown": {
-      "2023-01-25": 823,
+      "2023-01-25": 868,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -340,10 +340,10 @@
     "url": "https://siov.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/siov.sk.ico",
     "slug": "statny-institut-odborneho-vzdelavania",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1459,
@@ -351,7 +351,9 @@
     "timeWeek": 1300,
     "timeMonth": 1397,
     "timeYear": 1462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Štátna školská inšpekcia",
