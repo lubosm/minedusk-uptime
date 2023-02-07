@@ -34,7 +34,7 @@
     "timeMonth": 766,
     "timeYear": 2479,
     "dailyMinutesDown": {
-      "2023-02-07": 1236,
+      "2023-02-07": 1241,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -199,7 +199,7 @@
     "status": "up",
     "uptime": "98.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "63.66%",
+    "uptimeWeek": "63.72%",
     "uptimeMonth": "88.69%",
     "uptimeYear": "98.92%",
     "time": 3637,
@@ -528,19 +528,19 @@
     "url": "https://viki.iedu.sk",
     "icon": "https://icons.duckduckgo.com/ip3/viki.iedu.sk.ico",
     "slug": "centralne-ulozisko-digitalneho-edukacneho-obsahu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 944,
-    "timeDay": 745,
-    "timeWeek": 954,
-    "timeMonth": 912,
-    "timeYear": 944,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 940,
+    "timeDay": 733,
+    "timeWeek": 925,
+    "timeMonth": 905,
+    "timeYear": 940,
     "dailyMinutesDown": {
-      "2023-02-07": 1
+      "2023-02-07": 6
     }
   }
 ]
