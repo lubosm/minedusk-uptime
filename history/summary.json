@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "down",
-    "uptime": "17.78%",
+    "uptime": "17.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.78%",
+    "uptimeYear": "17.68%",
     "time": 2543,
     "timeDay": 639,
     "timeWeek": 792,
     "timeMonth": 766,
     "timeYear": 2479,
     "dailyMinutesDown": {
-      "2023-02-07": 705,
+      "2023-02-07": 1236,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -199,7 +199,7 @@
     "status": "up",
     "uptime": "98.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.40%",
+    "uptimeWeek": "63.66%",
     "uptimeMonth": "88.69%",
     "uptimeYear": "98.92%",
     "time": 3637,
@@ -502,7 +502,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.apvv.sk.ico",
     "slug": "agentura-na-podporu-vyskumu-a-vyvoja",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -528,10 +528,10 @@
     "url": "https://viki.iedu.sk",
     "icon": "https://icons.duckduckgo.com/ip3/viki.iedu.sk.ico",
     "slug": "centralne-ulozisko-digitalneho-edukacneho-obsahu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 944,
@@ -539,6 +539,8 @@
     "timeWeek": 954,
     "timeMonth": 912,
     "timeYear": 944,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-07": 1
+    }
   }
 ]
