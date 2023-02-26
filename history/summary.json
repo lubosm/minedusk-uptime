@@ -32,9 +32,9 @@
     "timeDay": 609,
     "timeWeek": 762,
     "timeMonth": 808,
-    "timeYear": 1879,
+    "timeYear": 1866,
     "dailyMinutesDown": {
-      "2023-02-26": 1384,
+      "2023-02-26": 1391,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
@@ -148,7 +148,7 @@
     "timeDay": 1128,
     "timeWeek": 1354,
     "timeMonth": 1642,
-    "timeYear": 1563,
+    "timeYear": 1562,
     "dailyMinutesDown": {}
   },
   {
@@ -197,17 +197,17 @@
     "url": "https://vudpap.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/vudpap.sk.ico",
     "slug": "vyskumny-ustav-detskej-psychologie-a-patopsychologie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2726,
-    "timeDay": 1313,
-    "timeWeek": 2344,
-    "timeMonth": 2410,
-    "timeYear": 2656,
+    "time": 2727,
+    "timeDay": 1907,
+    "timeWeek": 2400,
+    "timeMonth": 2424,
+    "timeYear": 2657,
     "dailyMinutesDown": {}
   },
   {
@@ -294,7 +294,7 @@
     "timeDay": 3802,
     "timeWeek": 4914,
     "timeMonth": 5184,
-    "timeYear": 3573,
+    "timeYear": 3570,
     "dailyMinutesDown": {
       "2023-01-29": 17,
       "2023-01-27": 219,
@@ -386,7 +386,7 @@
     "timeDay": 1225,
     "timeWeek": 1550,
     "timeMonth": 1402,
-    "timeYear": 1460,
+    "timeYear": 1459,
     "dailyMinutesDown": {}
   },
   {
@@ -404,7 +404,7 @@
     "timeDay": 2395,
     "timeWeek": 3361,
     "timeMonth": 3484,
-    "timeYear": 4006,
+    "timeYear": 4007,
     "dailyMinutesDown": {
       "2023-02-04": 693,
       "2023-02-03": 430,
@@ -460,7 +460,7 @@
     "timeDay": 2109,
     "timeWeek": 2890,
     "timeMonth": 2543,
-    "timeYear": 2082,
+    "timeYear": 2083,
     "dailyMinutesDown": {
       "2022-08-15": 794,
       "2022-08-14": 1439,
@@ -506,7 +506,7 @@
     "timeDay": 915,
     "timeWeek": 1124,
     "timeMonth": 1180,
-    "timeYear": 1232,
+    "timeYear": 1231,
     "dailyMinutesDown": {
       "2022-09-07": 704,
       "2022-09-06": 998
@@ -527,7 +527,7 @@
     "timeDay": 1047,
     "timeWeek": 1309,
     "timeMonth": 1375,
-    "timeYear": 2109,
+    "timeYear": 2107,
     "dailyMinutesDown": {
       "2023-01-03": 76,
       "2022-12-06": 207,
