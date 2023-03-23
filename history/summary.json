@@ -34,7 +34,7 @@
     "timeMonth": 793,
     "timeYear": 1758,
     "dailyMinutesDown": {
-      "2023-03-23": 869,
+      "2023-03-23": 881,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -480,10 +480,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nucem.sk.ico",
     "slug": "narodny-ustav-certifikovanych-merani-vzdelavania",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "91.34%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.72%",
+    "uptime": "99.59%",
+    "uptimeDay": "90.53%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.55%",
     "time": 2240,
     "timeDay": 9610,
@@ -491,7 +491,7 @@
     "timeMonth": 4958,
     "timeYear": 2407,
     "dailyMinutesDown": {
-      "2023-03-23": 125,
+      "2023-03-23": 137,
       "2022-08-15": 794,
       "2022-08-14": 1439
     }
@@ -501,9 +501,9 @@
     "url": "https://mpc-edu.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/mpc-edu.sk.ico",
     "slug": "metodicko-pedagogicke-centrum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.27%",
+    "uptimeDay": "98.23%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.82%",
@@ -513,7 +513,7 @@
     "timeMonth": 1478,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2023-03-23": 25,
+      "2023-03-23": 26,
       "2023-02-02": 261,
       "2022-12-05": 284,
       "2022-10-06": 174,
