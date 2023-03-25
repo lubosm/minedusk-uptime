@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "down",
-    "uptime": "10.77%",
+    "uptime": "10.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "10.77%",
+    "uptimeYear": "10.76%",
     "time": 2426,
     "timeDay": 801,
     "timeWeek": 924,
     "timeMonth": 801,
     "timeYear": 1754,
     "dailyMinutesDown": {
-      "2023-03-25": 835,
+      "2023-03-25": 842,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
@@ -167,17 +167,17 @@
     "slug": "edicny-portal",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "94.01%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 1602,
     "timeDay": 1386,
     "timeWeek": 1519,
     "timeMonth": 1779,
     "timeYear": 1581,
     "dailyMinutesDown": {
-      "2023-03-25": 79
+      "2023-03-25": 86
     }
   },
   {
@@ -360,9 +360,9 @@
     "slug": "antidopingova-agentura-sr",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.81%",
     "time": 1306,
     "timeDay": 1327,
@@ -370,7 +370,7 @@
     "timeMonth": 1329,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2023-03-25": 78,
+      "2023-03-25": 86,
       "2022-12-06": 62,
       "2022-11-16": 66,
       "2022-08-16": 808
@@ -412,17 +412,17 @@
     "slug": "statny-institut-odborneho-vzdelavania",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "94.61%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
     "time": 1450,
     "timeDay": 1573,
     "timeWeek": 1594,
     "timeMonth": 1407,
     "timeYear": 1458,
     "dailyMinutesDown": {
-      "2023-03-25": 78
+      "2023-03-25": 85
     }
   },
   {
@@ -534,10 +534,10 @@
     "url": "http://www.vyskumnaagentura.sk/sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.vyskumnaagentura.sk.ico",
     "slug": "vyskumna-agentura",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "99.26%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.66%",
     "time": 1257,
@@ -546,7 +546,7 @@
     "timeMonth": 1612,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2023-03-25": 75,
+      "2023-03-25": 76,
       "2022-09-07": 704,
       "2022-09-06": 998
     }
@@ -583,11 +583,11 @@
     "url": "https://viki.iedu.sk",
     "icon": "https://icons.duckduckgo.com/ip3/viki.iedu.sk.ico",
     "slug": "centralne-ulozisko-digitalneho-edukacneho-obsahu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
     "time": 1057,
     "timeDay": 3978,
@@ -595,7 +595,7 @@
     "timeMonth": 1358,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2023-03-25": 67
+      "2023-03-25": 68
     }
   }
 ]
