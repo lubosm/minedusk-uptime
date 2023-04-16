@@ -34,7 +34,8 @@
     "timeMonth": 905,
     "timeYear": 1527,
     "dailyMinutesDown": {
-      "2023-04-15": 1408,
+      "2023-04-16": 6,
+      "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -188,9 +189,9 @@
     "slug": "edicny-portal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 1607,
     "timeDay": 1233,
@@ -198,7 +199,6 @@
     "timeMonth": 1665,
     "timeYear": 1589,
     "dailyMinutesDown": {
-      "2023-04-15": 4,
       "2023-03-25": 108
     }
   },
