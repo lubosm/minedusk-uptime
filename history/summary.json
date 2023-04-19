@@ -4,7 +4,7 @@
     "url": "https://www.minedu.sk/",
     "icon": "https://www.minedu.sk/favicon.ico",
     "slug": "ministerstvo-skolstva-vedy-vyskumu-a-sportu-slovenskej-republiky",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 893,
     "timeYear": 1521,
     "dailyMinutesDown": {
-      "2023-04-19": 6,
+      "2023-04-19": 198,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
