@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1307,
+    "time": 1306,
     "timeDay": 1062,
     "timeWeek": 1211,
     "timeMonth": 1304,
-    "timeYear": 1307,
+    "timeYear": 1306,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 764,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2023-05-17": 1182,
+      "2023-05-17": 1188,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
@@ -648,9 +648,9 @@
     "slug": "centralne-ulozisko-digitalneho-edukacneho-obsahu",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1116,
     "timeDay": 863,
@@ -658,7 +658,6 @@
     "timeMonth": 900,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2023-05-17": 5,
       "2023-03-25": 88
     }
   }
