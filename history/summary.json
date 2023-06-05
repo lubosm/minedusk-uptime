@@ -4,17 +4,17 @@
     "url": "https://www.minedu.sk/",
     "icon": "https://www.minedu.sk/favicon.ico",
     "slug": "ministerstvo-skolstva-vedy-vyskumu-a-sportu-slovenskej-republiky",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1322,
-    "timeDay": 1538,
-    "timeWeek": 1222,
-    "timeMonth": 1425,
-    "timeYear": 1325,
+    "time": 1323,
+    "timeDay": 1454,
+    "timeWeek": 1236,
+    "timeMonth": 1424,
+    "timeYear": 1326,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 799,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2023-06-05": 194,
+      "2023-06-05": 202,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
@@ -229,7 +229,7 @@
     "timeDay": 2609,
     "timeWeek": 1983,
     "timeMonth": 1988,
-    "timeYear": 2855,
+    "timeYear": 2856,
     "dailyMinutesDown": {}
   },
   {
