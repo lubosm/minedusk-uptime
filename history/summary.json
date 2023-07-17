@@ -13,7 +13,7 @@
     "time": 1323,
     "timeDay": 957,
     "timeWeek": 1320,
-    "timeMonth": 1377,
+    "timeMonth": 1378,
     "timeYear": 1340,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,19 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "11.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.97%",
-    "uptimeYear": "11.23%",
-    "time": 1777,
+    "status": "down",
+    "uptime": "11.31%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "45.50%",
+    "uptimeYear": "11.31%",
+    "time": 1775,
     "timeDay": 3962,
     "timeWeek": 3912,
     "timeMonth": 3043,
     "timeYear": 1314,
     "dailyMinutesDown": {
+      "2023-07-17": 1,
       "2023-07-08": 15,
       "2023-07-03": 1059,
       "2023-07-02": 1440,
@@ -240,7 +241,7 @@
       "2022-12-13": 1254,
       "2022-12-12": 1257,
       "2022-12-11": 1286,
-      "2022-12-10": 789
+      "2022-12-10": 741
     }
   },
   {
@@ -510,7 +511,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/siov.sk.ico",
     "slug": "statny-institut-odborneho-vzdelavania",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.53%",
