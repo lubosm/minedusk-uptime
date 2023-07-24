@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "up",
-    "uptime": "13.94%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "68.71%",
-    "uptimeYear": "13.94%",
+    "uptime": "14.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "70.90%",
+    "uptimeYear": "14.17%",
     "time": 1675,
-    "timeDay": 3564,
+    "timeDay": 3523,
     "timeWeek": 3480,
     "timeMonth": 3484,
     "timeYear": 1356,
     "dailyMinutesDown": {
-      "2023-07-24": 6,
       "2023-07-08": 15,
       "2023-07-03": 1059,
       "2023-07-02": 1440,
@@ -241,7 +240,7 @@
       "2022-12-13": 1254,
       "2022-12-12": 1257,
       "2022-12-11": 1286,
-      "2022-12-10": 741
+      "2022-12-10": 789
     }
   },
   {
@@ -329,7 +328,7 @@
     "timeDay": 3435,
     "timeWeek": 2921,
     "timeMonth": 2804,
-    "timeYear": 2476,
+    "timeYear": 2477,
     "dailyMinutesDown": {}
   },
   {
@@ -510,7 +509,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/siov.sk.ico",
     "slug": "statny-institut-odborneho-vzdelavania",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -568,10 +567,10 @@
     "url": "http://www.shur.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shur.sk.ico",
     "slug": "slovensky-historicky-ustav-v-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
     "time": 688,
@@ -580,6 +579,7 @@
     "timeMonth": 630,
     "timeYear": 694,
     "dailyMinutesDown": {
+      "2023-07-24": 1,
       "2023-07-11": 85,
       "2023-06-12": 29,
       "2023-05-29": 23,
