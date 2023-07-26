@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1324,
-    "timeDay": 1394,
+    "timeDay": 1240,
     "timeWeek": 1425,
     "timeMonth": 1399,
     "timeYear": 1345,
@@ -22,18 +22,19 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "14.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.55%",
-    "uptimeYear": "14.57%",
-    "time": 1666,
-    "timeDay": 4199,
+    "status": "down",
+    "uptime": "14.89%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "77.37%",
+    "uptimeYear": "14.89%",
+    "time": 1665,
+    "timeDay": 4114,
     "timeWeek": 3518,
     "timeMonth": 3604,
     "timeYear": 1362,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2023-07-08": 15,
       "2023-07-03": 1059,
       "2023-07-02": 1440,
@@ -240,7 +241,7 @@
       "2022-12-13": 1254,
       "2022-12-12": 1257,
       "2022-12-11": 1286,
-      "2022-12-10": 789
+      "2022-12-10": 741
     }
   },
   {
@@ -287,7 +288,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.etwinning.sk.ico",
     "slug": "e-twinning",
     "status": "up",
-    "uptime": "97.86%",
+    "uptime": "97.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -328,7 +329,7 @@
     "timeDay": 3180,
     "timeWeek": 3097,
     "timeMonth": 2833,
-    "timeYear": 2480,
+    "timeYear": 2479,
     "dailyMinutesDown": {}
   },
   {
@@ -679,7 +680,7 @@
     "uptimeYear": "99.75%",
     "time": 1900,
     "timeDay": 1156,
-    "timeWeek": 2467,
+    "timeWeek": 2854,
     "timeMonth": 1684,
     "timeYear": 1708,
     "dailyMinutesDown": {
