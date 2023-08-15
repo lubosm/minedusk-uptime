@@ -22,18 +22,19 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "21.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "21.42%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.37%",
-    "time": 1867,
+    "uptimeYear": "21.42%",
+    "time": 1865,
     "timeDay": 3558,
     "timeWeek": 4431,
     "timeMonth": 3916,
     "timeYear": 1464,
     "dailyMinutesDown": {
+      "2023-08-15": 1,
       "2023-07-08": 15,
       "2023-07-03": 1059,
       "2023-07-02": 1440,
@@ -240,7 +241,7 @@
       "2022-12-13": 1254,
       "2022-12-12": 1257,
       "2022-12-11": 1286,
-      "2022-12-10": 789
+      "2022-12-10": 741
     }
   },
   {
@@ -322,7 +323,7 @@
     "timeDay": 3029,
     "timeWeek": 3006,
     "timeMonth": 3175,
-    "timeYear": 2490,
+    "timeYear": 2492,
     "dailyMinutesDown": {}
   },
   {
@@ -474,9 +475,9 @@
     "slug": "statny-pedagogicky-ustav",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 1995,
     "timeDay": 1654,
@@ -484,7 +485,6 @@
     "timeMonth": 2137,
     "timeYear": 1974,
     "dailyMinutesDown": {
-      "2023-08-15": 5,
       "2023-06-12": 286,
       "2023-06-11": 84,
       "2023-03-15": 497,
