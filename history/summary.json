@@ -13,7 +13,7 @@
     "time": 1346,
     "timeDay": 1311,
     "timeWeek": 1370,
-    "timeMonth": 1618,
+    "timeMonth": 1622,
     "timeYear": 1376,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,19 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "22.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "status": "down",
+    "uptime": "23.01%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "22.99%",
-    "time": 1813,
-    "timeDay": 3924,
+    "uptimeYear": "23.01%",
+    "time": 1812,
+    "timeDay": 3779,
     "timeWeek": 4567,
     "timeMonth": 4123,
     "timeYear": 1507,
     "dailyMinutesDown": {
+      "2023-08-21": 1,
       "2023-08-16": 24,
       "2023-07-08": 15,
       "2023-07-03": 1059,
@@ -241,7 +242,7 @@
       "2022-12-13": 1254,
       "2022-12-12": 1257,
       "2022-12-11": 1286,
-      "2022-12-10": 741
+      "2022-12-10": 695
     }
   },
   {
