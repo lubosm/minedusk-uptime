@@ -4,16 +4,16 @@
     "url": "https://www.minedu.sk/",
     "icon": "https://www.minedu.sk/favicon.ico",
     "slug": "ministerstvo-skolstva-vedy-vyskumu-a-sportu-slovenskej-republiky",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1351,
-    "timeDay": 1290,
-    "timeWeek": 1210,
-    "timeMonth": 1604,
+    "time": 1352,
+    "timeDay": 1371,
+    "timeWeek": 1239,
+    "timeMonth": 1603,
     "timeYear": 1379,
     "dailyMinutesDown": {}
   },
@@ -24,9 +24,9 @@
     "slug": "skolsky-sport",
     "status": "up",
     "uptime": "26.33%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "26.33%",
     "time": 1769,
     "timeDay": 5650,
@@ -34,7 +34,6 @@
     "timeMonth": 4584,
     "timeYear": 1587,
     "dailyMinutesDown": {
-      "2023-09-02": 7,
       "2023-08-21": 20,
       "2023-08-16": 24,
       "2023-07-08": 15,
@@ -243,7 +242,7 @@
       "2022-12-13": 1254,
       "2022-12-12": 1257,
       "2022-12-11": 1286,
-      "2022-12-10": 671
+      "2022-12-10": 695
     }
   },
   {
