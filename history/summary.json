@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1370,
     "timeDay": 2157,
-    "timeWeek": 2447,
+    "timeWeek": 2557,
     "timeMonth": 1704,
     "timeYear": 1415,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "30.35%",
-    "uptimeDay": "98.49%",
+    "status": "down",
+    "uptime": "30.44%",
+    "uptimeDay": "98.44%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "30.35%",
-    "time": 1888,
-    "timeDay": 4385,
+    "uptimeYear": "30.44%",
+    "time": 1887,
+    "timeDay": 4521,
     "timeWeek": 4232,
-    "timeMonth": 4331,
+    "timeMonth": 4339,
     "timeYear": 1659,
     "dailyMinutesDown": {
-      "2023-09-18": 22,
+      "2023-09-18": 23,
       "2023-09-06": 20,
       "2023-08-21": 20,
       "2023-08-16": 24,
@@ -244,7 +244,7 @@
       "2022-12-13": 1254,
       "2022-12-12": 1257,
       "2022-12-11": 1286,
-      "2022-12-10": 646
+      "2022-12-10": 508
     }
   },
   {
@@ -260,7 +260,7 @@
     "uptimeYear": "100.00%",
     "time": 2903,
     "timeDay": 1948,
-    "timeWeek": 3090,
+    "timeWeek": 1872,
     "timeMonth": 4878,
     "timeYear": 2806,
     "dailyMinutesDown": {}
@@ -404,7 +404,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cvtisr.sk.ico",
     "slug": "centrum-vedecko-technickych-informacii-sr",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.72%",
