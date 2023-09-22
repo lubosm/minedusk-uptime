@@ -22,18 +22,19 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "31.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "31.31%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "31.25%",
-    "time": 1889,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "31.31%",
+    "time": 1888,
     "timeDay": 3260,
     "timeWeek": 4284,
     "timeMonth": 4039,
     "timeYear": 1670,
     "dailyMinutesDown": {
+      "2023-09-22": 1,
       "2023-09-18": 22,
       "2023-09-06": 20,
       "2023-08-21": 20,
@@ -244,7 +245,7 @@
       "2022-12-13": 1254,
       "2022-12-12": 1257,
       "2022-12-11": 1286,
-      "2022-12-10": 646
+      "2022-12-10": 508
     }
   },
   {
@@ -334,7 +335,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iuventa.sk.ico",
     "slug": "iuventa",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
