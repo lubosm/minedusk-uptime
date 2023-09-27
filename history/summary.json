@@ -24,9 +24,9 @@
     "slug": "skolsky-sport",
     "status": "up",
     "uptime": "32.47%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "32.47%",
     "time": 1838,
     "timeDay": 4225,
@@ -34,7 +34,6 @@
     "timeMonth": 4067,
     "timeYear": 1707,
     "dailyMinutesDown": {
-      "2023-09-27": 6,
       "2023-09-18": 22,
       "2023-09-06": 20,
       "2023-08-21": 20,
@@ -245,7 +244,7 @@
       "2022-12-13": 1254,
       "2022-12-12": 1257,
       "2022-12-11": 1286,
-      "2022-12-10": 508
+      "2022-12-10": 646
     }
   },
   {
@@ -253,13 +252,13 @@
     "url": "https://www.vedatechnika.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.vedatechnika.sk.ico",
     "slug": "centralny-informacny-portal-pre-vyskum-vyvoj-a-inovacie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2802,
+    "time": 2803,
     "timeDay": 2108,
     "timeWeek": 1788,
     "timeMonth": 4801,
@@ -573,7 +572,7 @@
     "time": 684,
     "timeDay": 632,
     "timeWeek": 565,
-    "timeMonth": 609,
+    "timeMonth": 611,
     "timeYear": 666,
     "dailyMinutesDown": {
       "2023-07-11": 85,
