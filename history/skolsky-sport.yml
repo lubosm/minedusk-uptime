@@ -1,7 +1,7 @@
 url: https://skolskysport.sk/
-status: up
-code: 200
-responseTime: 3816
-lastUpdated: 2023-10-09T23:03:38.045Z
+status: down
+code: 500
+responseTime: 7849
+lastUpdated: 2023-10-10T07:21:10.209Z
 startTime: 2022-11-28T17:14:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
