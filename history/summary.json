@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1479,
+    "time": 1478,
     "timeDay": 1293,
     "timeWeek": 1561,
-    "timeMonth": 2557,
-    "timeYear": 1534,
+    "timeMonth": 2577,
+    "timeYear": 1533,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,19 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "36.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "36.94%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "36.83%",
-    "time": 1850,
+    "uptimeYear": "36.94%",
+    "time": 1847,
     "timeDay": 4976,
     "timeWeek": 4157,
-    "timeMonth": 4019,
+    "timeMonth": 4015,
     "timeYear": 1791,
     "dailyMinutesDown": {
+      "2023-10-18": 1,
       "2023-10-10": 35,
       "2023-09-18": 22,
       "2023-09-06": 20,
@@ -245,7 +246,7 @@
       "2022-12-13": 1254,
       "2022-12-12": 1257,
       "2022-12-11": 1286,
-      "2022-12-10": 508
+      "2022-12-10": 423
     }
   },
   {
@@ -326,7 +327,7 @@
     "timeDay": 3832,
     "timeWeek": 2861,
     "timeMonth": 2640,
-    "timeYear": 2484,
+    "timeYear": 2486,
     "dailyMinutesDown": {}
   },
   {
@@ -335,7 +336,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iuventa.sk.ico",
     "slug": "iuventa",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -449,7 +450,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.antidoping.sk.ico",
     "slug": "antidopingova-agentura-sr",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
