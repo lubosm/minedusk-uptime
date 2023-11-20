@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "up",
-    "uptime": "42.68%",
+    "uptime": "42.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "42.68%",
+    "uptimeYear": "42.69%",
     "time": 1964,
     "timeDay": 5081,
     "timeWeek": 4099,
@@ -408,8 +408,8 @@
     "slug": "centrum-vedecko-technickych-informacii-sr",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.00%",
     "time": 4274,
@@ -418,7 +418,6 @@
     "timeMonth": 4500,
     "timeYear": 4612,
     "dailyMinutesDown": {
-      "2023-11-19": 2,
       "2023-10-29": 31,
       "2023-09-14": 23,
       "2023-09-08": 41,
@@ -439,8 +438,7 @@
       "2022-11-24": 123,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
-      "2022-11-21": 1432,
-      "2022-11-20": 57
+      "2022-11-21": 1432
     }
   },
   {
