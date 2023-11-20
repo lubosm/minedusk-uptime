@@ -1,7 +1,7 @@
 url: https://www.apvv.sk/
-status: up
-code: 200
-responseTime: 1591
-lastUpdated: 2023-11-19T23:04:10.699Z
+status: down
+code: 503
+responseTime: 1323
+lastUpdated: 2023-11-20T21:56:03.730Z
 startTime: 2022-01-16T12:27:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
