@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "44.33%",
+    "uptimeYear": "44.34%",
     "time": 2301,
     "timeDay": 3371,
     "timeWeek": 3602,
     "timeMonth": 3907,
-    "timeYear": 2505,
+    "timeYear": 2509,
     "dailyMinutesDown": {
       "2023-11-14": 66,
       "2023-11-01": 27,
@@ -245,8 +245,7 @@
       "2022-12-16": 1176,
       "2022-12-15": 1175,
       "2022-12-14": 1243,
-      "2022-12-13": 1254,
-      "2022-12-12": 1257
+      "2022-12-13": 1254
     }
   },
   {
@@ -327,7 +326,7 @@
     "timeDay": 2540,
     "timeWeek": 2595,
     "timeMonth": 2281,
-    "timeYear": 2409,
+    "timeYear": 2412,
     "dailyMinutesDown": {}
   },
   {
@@ -441,7 +440,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.antidoping.sk.ico",
     "slug": "antidopingova-agentura-sr",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -630,9 +629,9 @@
     "slug": "vyskumna-agentura",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.32%",
     "time": 1511,
     "timeDay": 16467,
@@ -640,7 +639,6 @@
     "timeMonth": 1591,
     "timeYear": 1627,
     "dailyMinutesDown": {
-      "2023-12-11": 3,
       "2023-12-10": 27,
       "2023-11-08": 27,
       "2023-11-07": 78,
