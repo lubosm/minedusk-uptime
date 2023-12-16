@@ -1,7 +1,7 @@
 url: https://www.vedatechnika.sk/
-status: up
-code: 200
-responseTime: 1815
-lastUpdated: 2023-12-15T23:03:20.320Z
+status: down
+code: 503
+responseTime: 656
+lastUpdated: 2023-12-16T14:23:03.204Z
 startTime: 2022-01-16T12:27:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
