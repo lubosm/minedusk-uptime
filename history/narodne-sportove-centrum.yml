@@ -1,7 +1,7 @@
 url: https://narodnesportovecentrum.sk/
-status: up
-code: 200
-responseTime: 217
-lastUpdated: 2024-01-16T23:03:50.646Z
+status: down
+code: 500
+responseTime: 2286
+lastUpdated: 2024-01-17T21:39:37.989Z
 startTime: 2022-01-16T12:27:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
