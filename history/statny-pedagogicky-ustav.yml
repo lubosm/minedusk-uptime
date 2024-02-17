@@ -1,7 +1,7 @@
 url: https://www.statpedu.sk/
-status: up
-code: 200
-responseTime: 1387
-lastUpdated: 2024-02-17T22:41:42.539Z
+status: down
+code: 502
+responseTime: 8731
+lastUpdated: 2024-02-17T22:48:07.136Z
 startTime: 2022-01-16T12:27:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
