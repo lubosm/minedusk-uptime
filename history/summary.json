@@ -24,9 +24,9 @@
     "slug": "skolsky-sport",
     "status": "up",
     "uptime": "55.06%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "64.95%",
     "time": 3140,
     "timeDay": 4382,
@@ -34,7 +34,6 @@
     "timeMonth": 3984,
     "timeYear": 3496,
     "dailyMinutesDown": {
-      "2024-02-25": 6,
       "2024-02-18": 28,
       "2024-02-14": 18,
       "2023-11-14": 66,
@@ -172,8 +171,7 @@
       "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
-      "2023-02-27": 1440,
-      "2023-02-26": 1440
+      "2023-02-27": 1440
     }
   },
   {
@@ -203,7 +201,7 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.59%",
+    "uptimeMonth": "88.61%",
     "uptimeYear": "98.92%",
     "time": 1411,
     "timeDay": 11081,
