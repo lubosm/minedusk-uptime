@@ -24,17 +24,17 @@
     "slug": "skolsky-sport",
     "status": "up",
     "uptime": "61.19%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "83.97%",
     "time": 3497,
-    "timeDay": 4023,
+    "timeDay": 3952,
     "timeWeek": 3792,
     "timeMonth": 3889,
     "timeYear": 3835,
     "dailyMinutesDown": {
-      "2024-05-06": 22,
+      "2024-05-06": 16,
       "2024-04-25": 49,
       "2024-04-23": 20,
       "2024-04-16": 343,
@@ -111,8 +111,7 @@
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
-      "2023-05-09": 1440,
-      "2023-05-08": 1440
+      "2023-05-09": 1440
     }
   },
   {
@@ -321,7 +320,7 @@
     "slug": "statny-pedagogicky-ustav",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "11.54%",
+    "uptimeDay": "12.60%",
     "uptimeWeek": "15.00%",
     "uptimeMonth": "80.40%",
     "uptimeYear": "97.85%",
