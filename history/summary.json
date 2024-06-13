@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "up",
-    "uptime": "63.79%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "94.05%",
+    "uptime": "63.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "94.06%",
     "time": 3633,
     "timeDay": 4107,
     "timeWeek": 4053,
     "timeMonth": 3722,
     "timeYear": 3908,
     "dailyMinutesDown": {
-      "2024-06-12": 6,
       "2024-06-09": 15,
       "2024-06-06": 23,
       "2024-06-05": 20,
@@ -84,8 +83,7 @@
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
-      "2023-06-15": 1440,
-      "2023-06-14": 1440
+      "2023-06-15": 1440
     }
   },
   {
