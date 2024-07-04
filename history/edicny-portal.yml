@@ -1,7 +1,7 @@
 url: https://edicnyportal.iedu.sk/
-status: up
-code: 200
-responseTime: 8334
-lastUpdated: 2024-07-04T16:34:11.627Z
+status: down
+code: 500
+responseTime: 917
+lastUpdated: 2024-07-04T16:41:02.459Z
 startTime: 2022-01-16T12:27:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
