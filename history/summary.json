@@ -30,7 +30,7 @@
     "uptimeYear": "99.53%",
     "time": 3822,
     "timeDay": 3833,
-    "timeWeek": 3891,
+    "timeWeek": 3902,
     "timeMonth": 3788,
     "timeYear": 3930,
     "dailyMinutesDown": {
@@ -129,17 +129,18 @@
     "slug": "e-twinning",
     "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 1173,
     "timeDay": 1259,
     "timeWeek": 1053,
     "timeMonth": 1047,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2024-07-21": 1,
+      "2024-07-22": 7,
+      "2024-07-21": 28,
       "2023-11-24": 92,
       "2023-10-23": 16
     }
