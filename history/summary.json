@@ -22,19 +22,19 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "66.73%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.57%",
+    "status": "down",
+    "uptime": "66.74%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.52%",
-    "time": 3880,
+    "time": 3883,
     "timeDay": 3756,
     "timeWeek": 3729,
     "timeMonth": 3790,
     "timeYear": 3925,
     "dailyMinutesDown": {
-      "2024-08-02": 30,
+      "2024-08-02": 25,
       "2024-07-25": 22,
       "2024-07-20": 21,
       "2024-07-16": 37,
@@ -93,7 +93,7 @@
     "timeDay": 2327,
     "timeWeek": 2166,
     "timeMonth": 1977,
-    "timeYear": 2714,
+    "timeYear": 2715,
     "dailyMinutesDown": {}
   },
   {
@@ -161,7 +161,7 @@
     "timeDay": 2302,
     "timeWeek": 2123,
     "timeMonth": 2621,
-    "timeYear": 2843,
+    "timeYear": 2842,
     "dailyMinutesDown": {}
   },
   {
@@ -282,7 +282,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.statpedu.sk.ico",
     "slug": "statny-pedagogicky-ustav",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -331,7 +331,7 @@
     "timeDay": 2150,
     "timeWeek": 1875,
     "timeMonth": 1726,
-    "timeYear": 1902,
+    "timeYear": 1901,
     "dailyMinutesDown": {
       "2024-06-03": 40,
       "2024-02-02": 181
@@ -392,8 +392,8 @@
     "time": 2535,
     "timeDay": 3075,
     "timeWeek": 2682,
-    "timeMonth": 2380,
-    "timeYear": 2551,
+    "timeMonth": 2412,
+    "timeYear": 2550,
     "dailyMinutesDown": {
       "2024-06-03": 40,
       "2023-12-17": 95,
@@ -444,7 +444,7 @@
     "timeDay": 2818,
     "timeWeek": 2469,
     "timeMonth": 2304,
-    "timeYear": 1959,
+    "timeYear": 1960,
     "dailyMinutesDown": {
       "2024-06-04": 33,
       "2024-06-03": 39,
