@@ -31,7 +31,7 @@
     "time": 3915,
     "timeDay": 3901,
     "timeWeek": 3953,
-    "timeMonth": 3835,
+    "timeMonth": 3837,
     "timeYear": 3916,
     "dailyMinutesDown": {
       "2024-08-14": 58,
@@ -78,8 +78,7 @@
       "2023-10-10": 35,
       "2023-09-18": 22,
       "2023-09-06": 20,
-      "2023-08-21": 20,
-      "2023-08-16": 24
+      "2023-08-21": 20
     }
   },
   {
@@ -293,9 +292,9 @@
     "slug": "statny-pedagogicky-ustav",
     "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "97.37%",
     "time": 2216,
     "timeDay": 0,
@@ -303,7 +302,8 @@
     "timeMonth": 1403,
     "timeYear": 2287,
     "dailyMinutesDown": {
-      "2024-08-14": 1,
+      "2024-08-15": 8,
+      "2024-08-14": 15,
       "2024-06-26": 926,
       "2024-06-25": 1145,
       "2024-06-03": 35,
