@@ -24,17 +24,17 @@
     "slug": "skolsky-sport",
     "status": "up",
     "uptime": "67.74%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.50%",
     "time": 3919,
-    "timeDay": 4070,
+    "timeDay": 3993,
     "timeWeek": 3799,
-    "timeMonth": 3822,
+    "timeMonth": 3821,
     "timeYear": 3904,
     "dailyMinutesDown": {
-      "2024-08-20": 22,
+      "2024-08-20": 16,
       "2024-08-14": 58,
       "2024-08-07": 25,
       "2024-08-06": 20,
@@ -176,10 +176,10 @@
     "url": "https://www.iuventa.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.iuventa.sk.ico",
     "slug": "iuventa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1574,
@@ -187,7 +187,9 @@
     "timeWeek": 1243,
     "timeMonth": 1551,
     "timeYear": 1551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-20": 1
+    }
   },
   {
     "name": "Domov Speváckeho zboru slovenských učiteľov",
