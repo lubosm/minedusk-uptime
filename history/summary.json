@@ -29,7 +29,7 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.50%",
     "time": 3919,
-    "timeDay": 3993,
+    "timeDay": 4031,
     "timeWeek": 3799,
     "timeMonth": 3821,
     "timeYear": 3904,
@@ -176,11 +176,11 @@
     "url": "https://www.iuventa.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.iuventa.sk.ico",
     "slug": "iuventa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1573,
     "timeDay": 1091,
@@ -188,7 +188,7 @@
     "timeMonth": 1534,
     "timeYear": 1549,
     "dailyMinutesDown": {
-      "2024-08-20": 9
+      "2024-08-20": 1
     }
   },
   {
