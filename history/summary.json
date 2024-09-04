@@ -14,7 +14,7 @@
     "timeDay": 776,
     "timeWeek": 1081,
     "timeMonth": 990,
-    "timeYear": 1380,
+    "timeYear": 1381,
     "dailyMinutesDown": {}
   },
   {
@@ -22,11 +22,11 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "68.53%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.17%",
+    "status": "down",
+    "uptime": "68.54%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.46%",
     "time": 3928,
     "timeDay": 3998,
@@ -34,7 +34,7 @@
     "timeMonth": 3967,
     "timeYear": 3897,
     "dailyMinutesDown": {
-      "2024-09-04": 27,
+      "2024-09-04": 28,
       "2024-09-02": 53,
       "2024-09-01": 19,
       "2024-08-31": 18,
@@ -105,7 +105,7 @@
     "timeDay": 2097,
     "timeWeek": 2165,
     "timeMonth": 2095,
-    "timeYear": 2352,
+    "timeYear": 2353,
     "dailyMinutesDown": {}
   },
   {
@@ -114,7 +114,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/edicnyportal.iedu.sk.ico",
     "slug": "edicny-portal",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
