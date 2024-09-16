@@ -117,9 +117,9 @@
     "slug": "edicny-portal",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 1472,
     "timeDay": 1305,
@@ -127,7 +127,6 @@
     "timeMonth": 1363,
     "timeYear": 1563,
     "dailyMinutesDown": {
-      "2024-09-16": 4,
       "2024-07-04": 53,
       "2024-06-03": 41,
       "2024-01-29": 675,
@@ -190,7 +189,7 @@
     "slug": "iuventa",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "66.50%",
+    "uptimeDay": "67.80%",
     "uptimeWeek": "68.07%",
     "uptimeMonth": "91.14%",
     "uptimeYear": "99.26%",
@@ -303,7 +302,7 @@
     "slug": "statny-pedagogicky-ustav",
     "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "66.50%",
+    "uptimeDay": "67.80%",
     "uptimeWeek": "68.08%",
     "uptimeMonth": "87.95%",
     "uptimeYear": "96.27%",
@@ -391,10 +390,10 @@
     "url": "http://www.shur.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shur.sk.ico",
     "slug": "slovensky-historicky-ustav-v-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "95.50%",
-    "uptimeWeek": "99.36%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 614,
@@ -403,7 +402,7 @@
     "timeMonth": 667,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2024-09-16": 65
+      "2024-09-16": 66
     }
   },
   {
@@ -516,7 +515,7 @@
     "uptimeYear": "99.99%",
     "time": 1279,
     "timeDay": 965,
-    "timeWeek": 1133,
+    "timeWeek": 1138,
     "timeMonth": 1076,
     "timeYear": 1235,
     "dailyMinutesDown": {
