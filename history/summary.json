@@ -31,7 +31,7 @@
     "time": 3914,
     "timeDay": 3871,
     "timeWeek": 3837,
-    "timeMonth": 3976,
+    "timeMonth": 3973,
     "timeYear": 3894,
     "dailyMinutesDown": {
       "2024-09-16": 37,
@@ -189,7 +189,7 @@
     "slug": "iuventa",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "54.85%",
+    "uptimeDay": "64.06%",
     "uptimeWeek": "68.07%",
     "uptimeMonth": "91.14%",
     "uptimeYear": "99.26%",
@@ -302,7 +302,7 @@
     "slug": "statny-pedagogicky-ustav",
     "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "54.85%",
+    "uptimeDay": "64.07%",
     "uptimeWeek": "68.08%",
     "uptimeMonth": "87.95%",
     "uptimeYear": "96.27%",
@@ -390,10 +390,10 @@
     "url": "http://www.shur.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shur.sk.ico",
     "slug": "slovensky-historicky-ustav-v-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 614,
@@ -402,7 +402,7 @@
     "timeMonth": 663,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2024-09-16": 34
+      "2024-09-16": 35
     }
   },
   {
@@ -476,7 +476,7 @@
     "timeDay": 3713,
     "timeWeek": 2775,
     "timeMonth": 2397,
-    "timeYear": 2054,
+    "timeYear": 2055,
     "dailyMinutesDown": {
       "2024-06-04": 33,
       "2024-06-03": 39,
