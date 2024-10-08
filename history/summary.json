@@ -4,7 +4,7 @@
     "url": "https://www.minedu.sk/",
     "icon": "https://www.minedu.sk/favicon.ico",
     "slug": "ministerstvo-skolstva-vedy-vyskumu-a-sportu-slovenskej-republiky",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -290,7 +290,7 @@
     "slug": "antidopingova-agentura-sr",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "73.07%",
+    "uptimeDay": "86.28%",
     "uptimeWeek": "65.79%",
     "uptimeMonth": "92.13%",
     "uptimeYear": "99.27%",
@@ -388,12 +388,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 5430,
     "timeDay": 4923,
     "timeWeek": 5813,
     "timeMonth": 5106,
-    "timeYear": 5380,
+    "timeYear": 5375,
     "dailyMinutesDown": {
       "2024-03-19": 24
     }
