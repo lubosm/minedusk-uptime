@@ -519,11 +519,11 @@
     "url": "https://www.apvv.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.apvv.sk.ico",
     "slug": "agentura-na-podporu-vyskumu-a-vyvoja",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "92.87%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.97%",
     "time": 1267,
     "timeDay": 1383,
@@ -531,7 +531,7 @@
     "timeMonth": 1142,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2024-10-10": 103,
+      "2024-10-10": 104,
       "2024-05-24": 56,
       "2023-10-12": 18
     }
