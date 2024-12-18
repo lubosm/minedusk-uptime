@@ -1,7 +1,7 @@
 url: https://mpc-edu.sk/
-status: up
-code: 200
-responseTime: 1898
-lastUpdated: 2024-12-17T23:04:30.708Z
+status: down
+code: 500
+responseTime: 2513
+lastUpdated: 2024-12-18T12:12:57.405Z
 startTime: 2022-01-16T12:27:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
