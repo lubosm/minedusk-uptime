@@ -13,7 +13,7 @@
     "time": 1121,
     "timeDay": 1254,
     "timeWeek": 1116,
-    "timeMonth": 1067,
+    "timeMonth": 1074,
     "timeYear": 1082,
     "dailyMinutesDown": {}
   },
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 3735,
     "dailyMinutesDown": {
-      "2025-01-13": 262,
+      "2025-01-13": 293,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
@@ -221,7 +221,7 @@
     "time": 1515,
     "timeDay": 1599,
     "timeWeek": 1567,
-    "timeMonth": 1819,
+    "timeMonth": 1391,
     "timeYear": 1641,
     "dailyMinutesDown": {
       "2024-12-12": 29,
@@ -242,10 +242,10 @@
     "url": "http://www.etwinning.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.etwinning.sk.ico",
     "slug": "e-twinning",
-    "status": "up",
+    "status": "down",
     "uptime": "98.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "83.14%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "83.13%",
     "uptimeMonth": "96.12%",
     "uptimeYear": "98.25%",
     "time": 1193,
@@ -254,6 +254,7 @@
     "timeMonth": 1202,
     "timeYear": 1185,
     "dailyMinutesDown": {
+      "2025-01-13": 1,
       "2025-01-10": 724,
       "2025-01-09": 976,
       "2024-11-08": 547,
