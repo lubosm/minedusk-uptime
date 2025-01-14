@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 3734,
     "dailyMinutesDown": {
-      "2025-01-14": 30,
+      "2025-01-14": 52,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -243,9 +243,9 @@
     "url": "http://www.etwinning.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.etwinning.sk.ico",
     "slug": "e-twinning",
-    "status": "up",
+    "status": "down",
     "uptime": "98.26%",
-    "uptimeDay": "34.08%",
+    "uptimeDay": "34.03%",
     "uptimeWeek": "73.72%",
     "uptimeMonth": "93.95%",
     "uptimeYear": "98.07%",
@@ -255,6 +255,7 @@
     "timeMonth": 1674,
     "timeYear": 1238,
     "dailyMinutesDown": {
+      "2025-01-14": 1,
       "2025-01-13": 948,
       "2025-01-10": 724,
       "2025-01-09": 976,
