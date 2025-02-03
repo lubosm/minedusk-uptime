@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 3720,
     "dailyMinutesDown": {
-      "2025-02-03": 6,
+      "2025-02-03": 8,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -262,8 +262,8 @@
     "slug": "e-twinning",
     "status": "down",
     "uptime": "98.27%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "92.89%",
     "uptimeYear": "97.98%",
     "time": 1206,
@@ -272,7 +272,7 @@
     "timeMonth": 1251,
     "timeYear": 1191,
     "dailyMinutesDown": {
-      "2025-02-03": 1,
+      "2025-02-03": 2,
       "2025-01-30": 37,
       "2025-01-26": 20,
       "2025-01-24": 37,
