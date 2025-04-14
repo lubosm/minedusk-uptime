@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "down",
-    "uptime": "55.27%",
+    "uptime": "55.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 3672,
     "dailyMinutesDown": {
-      "2025-04-13": 1410,
+      "2025-04-14": 9,
+      "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -267,8 +268,7 @@
       "2024-05-06": 16,
       "2024-04-25": 49,
       "2024-04-23": 20,
-      "2024-04-16": 343,
-      "2024-04-14": 188
+      "2024-04-16": 343
     }
   },
   {
@@ -296,9 +296,9 @@
     "slug": "edicny-portal",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1596,
     "timeDay": 1205,
@@ -306,7 +306,6 @@
     "timeMonth": 1355,
     "timeYear": 1612,
     "dailyMinutesDown": {
-      "2025-04-13": 7,
       "2025-03-11": 17,
       "2025-03-06": 17,
       "2025-01-28": 17,
@@ -426,7 +425,7 @@
     "timeDay": 2769,
     "timeWeek": 2669,
     "timeMonth": 2527,
-    "timeYear": 2415,
+    "timeYear": 2401,
     "dailyMinutesDown": {
       "2025-02-01": 134,
       "2024-08-14": 67,
