@@ -34,7 +34,7 @@
     "timeMonth": 2056,
     "timeYear": 3529,
     "dailyMinutesDown": {
-      "2025-07-21": 1256,
+      "2025-07-21": 1263,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -519,19 +519,19 @@
     "url": "https://narodnesportovecentrum.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/narodnesportovecentrum.sk.ico",
     "slug": "narodne-sportove-centrum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 593,
-    "timeWeek": 318,
-    "timeMonth": 295,
+    "timeDay": 412,
+    "timeWeek": 308,
+    "timeMonth": 293,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-07-21": 1
+      "2025-07-21": 7
     }
   },
   {
@@ -590,7 +590,7 @@
     "slug": "statny-pedagogicky-ustav",
     "status": "up",
     "uptime": "98.18%",
-    "uptimeDay": "58.39%",
+    "uptimeDay": "58.87%",
     "uptimeWeek": "89.02%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "96.59%",
