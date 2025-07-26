@@ -34,7 +34,7 @@
     "timeMonth": 2056,
     "timeYear": 3515,
     "dailyMinutesDown": {
-      "2025-07-26": 1164,
+      "2025-07-26": 1170,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -522,19 +522,19 @@
     "url": "https://narodnesportovecentrum.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/narodnesportovecentrum.sk.ico",
     "slug": "narodne-sportove-centrum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 314,
-    "timeWeek": 301,
-    "timeMonth": 295,
+    "timeDay": 303,
+    "timeWeek": 299,
+    "timeMonth": 294,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-07-26": 1
+      "2025-07-26": 7
     }
   },
   {
