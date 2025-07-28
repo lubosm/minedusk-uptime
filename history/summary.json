@@ -34,7 +34,8 @@
     "timeMonth": 2056,
     "timeYear": 3512,
     "dailyMinutesDown": {
-      "2025-07-27": 1419,
+      "2025-07-28": 11,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -525,18 +526,16 @@
     "slug": "narodne-sportove-centrum",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 252,
     "timeWeek": 272,
     "timeMonth": 294,
     "timeYear": 274,
-    "dailyMinutesDown": {
-      "2025-07-27": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Centrum vedecko-technických informácií SR",
@@ -595,7 +594,7 @@
     "status": "up",
     "uptime": "98.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.67%",
+    "uptimeWeek": "95.99%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "96.59%",
     "time": 1514,
