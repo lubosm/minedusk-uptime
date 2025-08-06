@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "down",
-    "uptime": "48.84%",
+    "uptime": "48.83%",
     "uptimeDay": "0.90%",
     "uptimeWeek": "0.13%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.68%",
+    "uptimeYear": "17.66%",
     "time": 3520,
     "timeDay": 2513,
     "timeWeek": 2513,
     "timeMonth": 2513,
-    "timeYear": 3484,
+    "timeYear": 3485,
     "dailyMinutesDown": {
-      "2025-08-06": 964,
+      "2025-08-06": 1098,
       "2025-08-05": 1433,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -530,10 +530,10 @@
     "url": "https://narodnesportovecentrum.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/narodnesportovecentrum.sk.ico",
     "slug": "narodne-sportove-centrum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
@@ -541,7 +541,9 @@
     "timeWeek": 255,
     "timeMonth": 285,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-06": 1
+    }
   },
   {
     "name": "Centrum vedecko-technických informácií SR",
