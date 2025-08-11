@@ -1,7 +1,7 @@
 url: https://siov.sk/
-status: up
-code: 200
-responseTime: 1483
-lastUpdated: 2025-08-10T23:04:13.287Z
+status: down
+code: 500
+responseTime: 588
+lastUpdated: 2025-08-11T19:02:31.750Z
 startTime: 2022-01-16T12:27:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
