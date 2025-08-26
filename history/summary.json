@@ -27,14 +27,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.43%",
+    "uptimeYear": "12.42%",
     "time": 3448,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2520,
     "timeYear": 3358,
     "dailyMinutesDown": {
-      "2025-08-25": 1434,
+      "2025-08-26": 9,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -367,8 +368,7 @@
       "2024-09-02": 53,
       "2024-09-01": 19,
       "2024-08-31": 18,
-      "2024-08-27": 20,
-      "2024-08-26": 12
+      "2024-08-27": 20
     }
   },
   {
@@ -537,9 +537,9 @@
     "slug": "narodne-sportove-centrum",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 265,
     "timeDay": 279,
@@ -547,7 +547,6 @@
     "timeMonth": 281,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2025-08-25": 5,
       "2025-08-06": 16
     }
   },
