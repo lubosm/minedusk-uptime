@@ -13,7 +13,7 @@
     "time": 1037,
     "timeDay": 0,
     "timeWeek": 1177,
-    "timeMonth": 1144,
+    "timeMonth": 1147,
     "timeYear": 1043,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "down",
-    "uptime": "47.81%",
+    "uptime": "47.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.89%",
+    "uptimeYear": "11.88%",
     "time": 3448,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2520,
-    "timeYear": 3314,
+    "timeYear": 3316,
     "dailyMinutesDown": {
-      "2025-08-27": 1384,
+      "2025-08-28": 9,
+      "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -385,7 +386,7 @@
     "time": 2190,
     "timeDay": 0,
     "timeWeek": 2171,
-    "timeMonth": 2428,
+    "timeMonth": 2438,
     "timeYear": 2265,
     "dailyMinutesDown": {}
   },
@@ -403,7 +404,7 @@
     "time": 1564,
     "timeDay": 0,
     "timeWeek": 1416,
-    "timeMonth": 1272,
+    "timeMonth": 1264,
     "timeYear": 1444,
     "dailyMinutesDown": {
       "2025-05-05": 694,
@@ -471,7 +472,7 @@
     "time": 2930,
     "timeDay": 0,
     "timeWeek": 2958,
-    "timeMonth": 2981,
+    "timeMonth": 2973,
     "timeYear": 2940,
     "dailyMinutesDown": {}
   },
@@ -489,8 +490,8 @@
     "time": 2039,
     "timeDay": 0,
     "timeWeek": 3600,
-    "timeMonth": 3405,
-    "timeYear": 2256,
+    "timeMonth": 3396,
+    "timeYear": 2258,
     "dailyMinutesDown": {
       "2025-06-03": 788,
       "2025-06-02": 1440,
@@ -524,7 +525,7 @@
     "time": 2552,
     "timeDay": 0,
     "timeWeek": 2548,
-    "timeMonth": 2626,
+    "timeMonth": 2637,
     "timeYear": 2552,
     "dailyMinutesDown": {
       "2025-02-01": 134
@@ -537,17 +538,16 @@
     "slug": "narodne-sportove-centrum",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 262,
     "timeDay": 198,
     "timeWeek": 270,
-    "timeMonth": 276,
+    "timeMonth": 275,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-08-27": 7,
       "2025-08-26": 24,
       "2025-08-06": 16
     }
@@ -566,7 +566,7 @@
     "time": 3015,
     "timeDay": 0,
     "timeWeek": 3521,
-    "timeMonth": 3376,
+    "timeMonth": 3367,
     "timeYear": 3048,
     "dailyMinutesDown": {
       "2025-02-15": 35,
@@ -587,7 +587,7 @@
     "time": 1500,
     "timeDay": 0,
     "timeWeek": 2593,
-    "timeMonth": 1884,
+    "timeMonth": 1883,
     "timeYear": 1520,
     "dailyMinutesDown": {
       "2024-10-28": 392,
@@ -615,8 +615,8 @@
     "time": 1508,
     "timeDay": 1430,
     "timeWeek": 1552,
-    "timeMonth": 1488,
-    "timeYear": 1513,
+    "timeMonth": 1487,
+    "timeYear": 1514,
     "dailyMinutesDown": {
       "2025-08-27": 22,
       "2025-07-21": 416,
@@ -658,8 +658,8 @@
     "time": 1858,
     "timeDay": 0,
     "timeWeek": 2091,
-    "timeMonth": 2070,
-    "timeYear": 1887,
+    "timeMonth": 2056,
+    "timeYear": 1886,
     "dailyMinutesDown": {
       "2025-08-12": 402,
       "2025-08-11": 297,
@@ -681,8 +681,8 @@
     "time": 4206,
     "timeDay": 0,
     "timeWeek": 1603,
-    "timeMonth": 1480,
-    "timeYear": 3860,
+    "timeMonth": 1474,
+    "timeYear": 3854,
     "dailyMinutesDown": {
       "2025-08-06": 18,
       "2025-07-25": 27,
@@ -708,7 +708,7 @@
     "time": 676,
     "timeDay": 0,
     "timeWeek": 714,
-    "timeMonth": 691,
+    "timeMonth": 690,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2024-09-16": 65
@@ -728,7 +728,7 @@
     "time": 2726,
     "timeDay": 0,
     "timeWeek": 3012,
-    "timeMonth": 2898,
+    "timeMonth": 2897,
     "timeYear": 2796,
     "dailyMinutesDown": {
       "2025-03-31": 276,
@@ -750,8 +750,8 @@
     "time": 1602,
     "timeDay": 0,
     "timeWeek": 1627,
-    "timeMonth": 1539,
-    "timeYear": 1787,
+    "timeMonth": 1536,
+    "timeYear": 1788,
     "dailyMinutesDown": {
       "2025-03-31": 262,
       "2025-03-11": 68,
@@ -777,8 +777,8 @@
     "time": 2639,
     "timeDay": 0,
     "timeWeek": 2537,
-    "timeMonth": 2398,
-    "timeYear": 2720,
+    "timeMonth": 2391,
+    "timeYear": 2721,
     "dailyMinutesDown": {
       "2024-10-24": 17
     }
@@ -797,7 +797,7 @@
     "time": 1129,
     "timeDay": 1134,
     "timeWeek": 1217,
-    "timeMonth": 1157,
+    "timeMonth": 1154,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2025-06-05": 18,
@@ -818,7 +818,7 @@
     "time": 932,
     "timeDay": 0,
     "timeWeek": 1021,
-    "timeMonth": 986,
+    "timeMonth": 984,
     "timeYear": 943,
     "dailyMinutesDown": {}
   }
