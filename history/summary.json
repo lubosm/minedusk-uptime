@@ -13,7 +13,7 @@
     "time": 1037,
     "timeDay": 0,
     "timeWeek": 1177,
-    "timeMonth": 1147,
+    "timeMonth": 1134,
     "timeYear": 1043,
     "dailyMinutesDown": {}
   },
@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.88%",
+    "uptimeYear": "11.84%",
     "time": 3448,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2520,
     "timeYear": 3316,
     "dailyMinutesDown": {
-      "2025-08-28": 9,
+      "2025-08-28": 253,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -536,10 +536,10 @@
     "url": "https://narodnesportovecentrum.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/narodnesportovecentrum.sk.ico",
     "slug": "narodne-sportove-centrum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 262,
@@ -548,6 +548,7 @@
     "timeMonth": 275,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2025-08-28": 1,
       "2025-08-26": 24,
       "2025-08-06": 16
     }
