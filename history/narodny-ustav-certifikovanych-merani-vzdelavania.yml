@@ -1,7 +1,7 @@
 url: https://www.nucem.sk/
-status: up
-code: 200
-responseTime: 2373
-lastUpdated: 2025-09-15T23:04:02.657Z
+status: down
+code: 503
+responseTime: 1642
+lastUpdated: 2025-09-16T22:47:15.801Z
 startTime: 2022-01-16T12:27:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
