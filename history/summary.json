@@ -14,7 +14,7 @@
     "timeDay": 917,
     "timeWeek": 1092,
     "timeMonth": 1124,
-    "timeYear": 1046,
+    "timeYear": 1047,
     "dailyMinutesDown": {}
   },
   {
@@ -23,8 +23,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "up",
-    "uptime": "49.22%",
-    "uptimeDay": "72.74%",
+    "uptime": "49.23%",
+    "uptimeDay": "86.34%",
     "uptimeWeek": "93.36%",
     "uptimeMonth": "96.91%",
     "uptimeYear": "11.28%",
@@ -598,7 +598,7 @@
     "slug": "statny-pedagogicky-ustav",
     "status": "up",
     "uptime": "98.21%",
-    "uptimeDay": "72.74%",
+    "uptimeDay": "86.34%",
     "uptimeWeek": "93.37%",
     "uptimeMonth": "96.92%",
     "uptimeYear": "97.44%",
