@@ -27,7 +27,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.82%",
-    "uptimeYear": "16.52%",
+    "uptimeYear": "16.53%",
     "time": 2620,
     "timeDay": 2850,
     "timeWeek": 2573,
@@ -344,8 +344,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
@@ -487,9 +486,9 @@
     "slug": "domov-spevackeho-zboru-slovenskych-ucitelov",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2604,
     "timeDay": 2616,
@@ -497,7 +496,6 @@
     "timeMonth": 2484,
     "timeYear": 2546,
     "dailyMinutesDown": {
-      "2025-11-03": 6,
       "2025-02-01": 134
     }
   },
