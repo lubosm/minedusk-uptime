@@ -27,7 +27,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "39.45%",
+    "uptimeYear": "39.46%",
     "time": 2593,
     "timeDay": 2820,
     "timeWeek": 2532,
@@ -583,9 +583,9 @@
     "url": "http://www.shur.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shur.sk.ico",
     "slug": "slovensky-historicky-ustav-v-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "93.06%",
+    "uptimeDay": "93.01%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
@@ -595,7 +595,7 @@
     "timeMonth": 1952,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2026-02-02": 100,
+      "2026-02-02": 101,
       "2026-01-31": 19
     }
   },
