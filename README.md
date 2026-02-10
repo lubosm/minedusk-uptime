@@ -37,6 +37,9 @@
 [![Static Site CI](https://github.com/lubosm/minedusk-uptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/lubosm/minedusk-uptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/lubosm/minedusk-uptime/workflows/Summary%20CI/badge.svg)](https://github.com/lubosm/minedusk-uptime/actions?query=workflow%3A%22Summary+CI%22)
 
+## Activity
+![Alt](https://repobeats.axiom.co/api/embed/83056324b9f2dd56e2fe3738b4beb1750328db8f.svg "Repobeats analytics image")
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
