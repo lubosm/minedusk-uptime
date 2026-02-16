@@ -672,19 +672,19 @@
     "url": "https://viki.iedu.sk",
     "icon": "https://icons.duckduckgo.com/ip3/viki.iedu.sk.ico",
     "slug": "centralne-ulozisko-digitalneho-edukacneho-obsahu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "82.94%",
-    "uptimeWeek": "95.28%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "82.14%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "99.91%",
     "time": 952,
-    "timeDay": 1198,
-    "timeWeek": 1065,
-    "timeMonth": 1056,
-    "timeYear": 960,
+    "timeDay": 1234,
+    "timeWeek": 1089,
+    "timeMonth": 1065,
+    "timeYear": 961,
     "dailyMinutesDown": {
-      "2026-02-16": 246,
+      "2026-02-16": 257,
       "2026-02-13": 230
     }
   }
