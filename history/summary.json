@@ -22,18 +22,19 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "54.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.79%",
+    "status": "down",
+    "uptime": "54.83%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "95.17%",
     "uptimeMonth": "94.61%",
     "uptimeYear": "47.64%",
     "time": 2589,
     "timeDay": 2179,
     "timeWeek": 2498,
-    "timeMonth": 2688,
+    "timeMonth": 2693,
     "timeYear": 2572,
     "dailyMinutesDown": {
+      "2026-03-05": 1,
       "2026-02-27": 434,
       "2026-02-26": 447,
       "2026-02-17": 206,
@@ -256,11 +257,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2339,
+    "time": 2377,
     "timeDay": 2351,
     "timeWeek": 2409,
-    "timeMonth": 2486,
-    "timeYear": 2405,
+    "timeMonth": 2499,
+    "timeYear": 2406,
     "dailyMinutesDown": {}
   },
   {
@@ -277,8 +278,8 @@
     "time": 1492,
     "timeDay": 1176,
     "timeWeek": 1401,
-    "timeMonth": 1450,
-    "timeYear": 1441,
+    "timeMonth": 1453,
+    "timeYear": 1442,
     "dailyMinutesDown": {
       "2025-05-05": 694,
       "2025-05-04": 1440,
@@ -304,7 +305,7 @@
     "time": 775,
     "timeDay": 551,
     "timeWeek": 644,
-    "timeMonth": 746,
+    "timeMonth": 752,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2025-12-05": 122
@@ -324,8 +325,8 @@
     "time": 3198,
     "timeDay": 3262,
     "timeWeek": 3477,
-    "timeMonth": 3797,
-    "timeYear": 3364,
+    "timeMonth": 3810,
+    "timeYear": 3368,
     "dailyMinutesDown": {}
   },
   {
@@ -342,8 +343,8 @@
     "time": 2880,
     "timeDay": 2870,
     "timeWeek": 3361,
-    "timeMonth": 3646,
-    "timeYear": 3334,
+    "timeMonth": 3659,
+    "timeYear": 3339,
     "dailyMinutesDown": {
       "2025-06-03": 788,
       "2025-06-02": 1440,
@@ -367,8 +368,8 @@
     "time": 2651,
     "timeDay": 2407,
     "timeWeek": 2756,
-    "timeMonth": 2962,
-    "timeYear": 2705,
+    "timeMonth": 2968,
+    "timeYear": 2704,
     "dailyMinutesDown": {
       "2025-12-09": 31
     }
@@ -387,7 +388,7 @@
     "time": 294,
     "timeDay": 301,
     "timeWeek": 335,
-    "timeMonth": 368,
+    "timeMonth": 366,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2025-10-26": 26,
@@ -411,8 +412,8 @@
     "time": 3210,
     "timeDay": 3845,
     "timeWeek": 3699,
-    "timeMonth": 3528,
-    "timeYear": 3256,
+    "timeMonth": 3522,
+    "timeYear": 3257,
     "dailyMinutesDown": {}
   },
   {
@@ -429,7 +430,7 @@
     "time": 1493,
     "timeDay": 1244,
     "timeWeek": 1333,
-    "timeMonth": 1456,
+    "timeMonth": 1463,
     "timeYear": 1516,
     "dailyMinutesDown": {
       "2025-12-29": 546,
@@ -445,17 +446,17 @@
     "slug": "statny-pedagogicky-ustav",
     "status": "down",
     "uptime": "97.80%",
-    "uptimeDay": "99.93%",
+    "uptimeDay": "97.19%",
     "uptimeWeek": "94.78%",
-    "uptimeMonth": "94.61%",
-    "uptimeYear": "95.91%",
+    "uptimeMonth": "94.52%",
+    "uptimeYear": "95.90%",
     "time": 1562,
     "timeDay": 1365,
     "timeWeek": 1532,
-    "timeMonth": 1702,
+    "timeMonth": 1711,
     "timeYear": 1543,
     "dailyMinutesDown": {
-      "2026-03-05": 1,
+      "2026-03-05": 41,
       "2026-02-27": 435,
       "2026-02-26": 446,
       "2026-02-17": 206,
@@ -510,8 +511,8 @@
     "time": 1953,
     "timeDay": 1731,
     "timeWeek": 1980,
-    "timeMonth": 2311,
-    "timeYear": 1988,
+    "timeMonth": 2322,
+    "timeYear": 1989,
     "dailyMinutesDown": {
       "2025-08-12": 402,
       "2025-08-11": 297
@@ -531,8 +532,8 @@
     "time": 2632,
     "timeDay": 1212,
     "timeWeek": 1440,
-    "timeMonth": 1605,
-    "timeYear": 1778,
+    "timeMonth": 1611,
+    "timeYear": 1765,
     "dailyMinutesDown": {
       "2026-03-05": 25,
       "2025-08-06": 18,
@@ -557,7 +558,7 @@
     "time": 805,
     "timeDay": 651,
     "timeWeek": 700,
-    "timeMonth": 691,
+    "timeMonth": 696,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2026-02-02": 152,
@@ -578,8 +579,8 @@
     "time": 2878,
     "timeDay": 2813,
     "timeWeek": 3003,
-    "timeMonth": 3224,
-    "timeYear": 2912,
+    "timeMonth": 3241,
+    "timeYear": 2913,
     "dailyMinutesDown": {
       "2025-03-31": 276
     }
@@ -598,8 +599,8 @@
     "time": 1772,
     "timeDay": 1440,
     "timeWeek": 1545,
-    "timeMonth": 1696,
-    "timeYear": 1631,
+    "timeMonth": 1700,
+    "timeYear": 1632,
     "dailyMinutesDown": {
       "2025-09-28": 532,
       "2025-03-31": 262,
@@ -620,8 +621,8 @@
     "time": 2457,
     "timeDay": 1610,
     "timeWeek": 1938,
-    "timeMonth": 2070,
-    "timeYear": 2312,
+    "timeMonth": 2082,
+    "timeYear": 2310,
     "dailyMinutesDown": {}
   },
   {
@@ -638,7 +639,7 @@
     "time": 1145,
     "timeDay": 1090,
     "timeWeek": 1277,
-    "timeMonth": 1313,
+    "timeMonth": 1317,
     "timeYear": 1152,
     "dailyMinutesDown": {
       "2026-02-24": 18,
@@ -662,7 +663,7 @@
     "time": 958,
     "timeDay": 924,
     "timeWeek": 1001,
-    "timeMonth": 1064,
+    "timeMonth": 1066,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2026-02-16": 245,
