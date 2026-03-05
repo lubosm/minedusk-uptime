@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1090,
-    "timeDay": 1289,
+    "timeDay": 1183,
     "timeWeek": 1119,
     "timeMonth": 1208,
-    "timeYear": 1103,
+    "timeYear": 1104,
     "dailyMinutesDown": {}
   },
   {
@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "up",
-    "uptime": "54.78%",
+    "uptime": "54.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.26%",
     "uptimeMonth": "94.61%",
-    "uptimeYear": "47.38%",
+    "uptimeYear": "47.49%",
     "time": 2589,
     "timeDay": 2179,
     "timeWeek": 2498,
@@ -546,10 +546,10 @@
     "url": "http://www.shur.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shur.sk.ico",
     "slug": "slovensky-historicky-ustav-v-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 804,
@@ -558,6 +558,7 @@
     "timeMonth": 688,
     "timeYear": 873,
     "dailyMinutesDown": {
+      "2026-03-05": 1,
       "2026-02-02": 152,
       "2026-01-31": 19
     }
