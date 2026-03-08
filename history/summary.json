@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1091,
     "timeDay": 1104,
-    "timeWeek": 1296,
+    "timeWeek": 1354,
     "timeMonth": 1222,
     "timeYear": 1104,
     "dailyMinutesDown": {}
@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "up",
-    "uptime": "54.88%",
+    "uptime": "54.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.05%",
     "uptimeMonth": "93.47%",
-    "uptimeYear": "48.11%",
+    "uptimeYear": "48.22%",
     "time": 2597,
     "timeDay": 3841,
     "timeWeek": 2948,
@@ -322,7 +322,7 @@
     "time": 3208,
     "timeDay": 3483,
     "timeWeek": 3731,
-    "timeMonth": 3964,
+    "timeMonth": 4105,
     "timeYear": 3375,
     "dailyMinutesDown": {}
   },
@@ -500,10 +500,10 @@
     "url": "https://siov.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/siov.sk.ico",
     "slug": "statny-institut-odborneho-vzdelavania",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1955,
@@ -512,6 +512,7 @@
     "timeMonth": 2330,
     "timeYear": 1993,
     "dailyMinutesDown": {
+      "2026-03-08": 1,
       "2025-08-12": 402,
       "2025-08-11": 297
     }
