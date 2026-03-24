@@ -27,7 +27,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.82%",
-    "uptimeYear": "52.49%",
+    "uptimeYear": "52.50%",
     "time": 2595,
     "timeDay": 2873,
     "timeWeek": 2554,
@@ -591,18 +591,20 @@
     "url": "http://www.vyskumnaagentura.sk/sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.vyskumnaagentura.sk.ico",
     "slug": "vyskumna-agentura",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2407,
+    "time": 2404,
     "timeDay": 2215,
     "timeWeek": 1990,
     "timeMonth": 1973,
     "timeYear": 2284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-24": 1
+    }
   },
   {
     "name": "Agentúra na podporu výskumu a vývoja",
