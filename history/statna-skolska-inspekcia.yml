@@ -1,7 +1,7 @@
 url: https://www.ssi.sk/
-status: up
-code: 200
-responseTime: 1929
-lastUpdated: 2026-03-31T23:10:38.315Z
+status: down
+code: 504
+responseTime: 834
+lastUpdated: 2026-04-01T06:50:21.379Z
 startTime: 2022-01-16T12:27:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
