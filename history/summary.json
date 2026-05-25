@@ -22,12 +22,12 @@
     "url": "https://skolskysport.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
-    "status": "up",
-    "uptime": "73.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.39%",
-    "uptimeYear": "69.30%",
+    "status": "down",
+    "uptime": "73.25%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "69.44%",
     "time": 2555,
     "timeDay": 1978,
     "timeWeek": 2295,
@@ -169,7 +169,8 @@
       "2026-04-21": 28,
       "2026-04-28": 51,
       "2026-04-27": 1067,
-      "2026-05-15": 26
+      "2026-05-15": 26,
+      "2026-05-25": 6
     }
   },
   {
@@ -365,10 +366,10 @@
     "url": "https://www.statpedu.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.statpedu.sk.ico",
     "slug": "statny-pedagogicky-ustav",
-    "status": "up",
+    "status": "down",
     "uptime": "97.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "96.73%",
     "time": 1546,
@@ -412,7 +413,8 @@
       "2026-04-01": 25,
       "2026-04-21": 27,
       "2026-04-28": 51,
-      "2026-04-27": 1066
+      "2026-04-27": 1066,
+      "2026-05-25": 1
     }
   },
   {
@@ -500,12 +502,12 @@
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.78%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.89%",
     "time": 2934,
     "timeDay": 3008,
     "timeWeek": 2953,
-    "timeMonth": 3160,
+    "timeMonth": 3176,
     "timeYear": 2965,
     "dailyMinutesDown": {
       "2026-04-01": 25,
@@ -523,12 +525,12 @@
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.68%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "99.75%",
     "time": 1716,
     "timeDay": 1987,
     "timeWeek": 2274,
-    "timeMonth": 2101,
+    "timeMonth": 2112,
     "timeYear": 1611,
     "dailyMinutesDown": {
       "2025-09-28": 532,
