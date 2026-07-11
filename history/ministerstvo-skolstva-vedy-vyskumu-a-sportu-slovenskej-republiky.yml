@@ -1,7 +1,7 @@
 url: https://www.minedu.sk/
-status: up
-code: 200
-responseTime: 873
-lastUpdated: 2026-07-10T23:20:14.707Z
+status: down
+code: 502
+responseTime: 408
+lastUpdated: 2026-07-11T03:22:36.228Z
 startTime: 2022-01-16T12:27:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
