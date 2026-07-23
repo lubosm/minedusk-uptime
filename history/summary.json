@@ -24,9 +24,9 @@
     "slug": "skolsky-sport",
     "status": "down",
     "uptime": "74.28%",
-    "uptimeDay": "94.49%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "95.00%",
+    "uptimeDay": "92.51%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "94.93%",
     "uptimeYear": "85.05%",
     "time": 2520,
     "timeDay": 2360,
@@ -118,7 +118,7 @@
       "2026-07-01": 50,
       "2026-07-13": 375,
       "2026-07-12": 1183,
-      "2026-07-23": 79
+      "2026-07-23": 108
     }
   },
   {
@@ -144,20 +144,20 @@
     "url": "https://edicnyportal.iedu.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/edicnyportal.iedu.sk.ico",
     "slug": "edicny-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 2220,
-    "timeDay": 8121,
-    "timeWeek": 3144,
-    "timeMonth": 3755,
-    "timeYear": 2471,
+    "time": 2219,
+    "timeDay": 5741,
+    "timeWeek": 2874,
+    "timeMonth": 3665,
+    "timeYear": 2467,
     "dailyMinutesDown": {
       "2026-04-24": 16,
-      "2026-07-23": 16
+      "2026-07-23": 28
     }
   },
   {
@@ -314,10 +314,10 @@
     "slug": "statny-pedagogicky-ustav",
     "status": "down",
     "uptime": "97.79%",
-    "uptimeDay": "95.06%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "95.05%",
-    "uptimeYear": "96.42%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "96.41%",
     "time": 1651,
     "timeDay": 1768,
     "timeWeek": 3068,
@@ -364,7 +364,7 @@
       "2026-07-01": 45,
       "2026-07-13": 376,
       "2026-07-12": 1178,
-      "2026-07-23": 71
+      "2026-07-23": 99
     }
   },
   {
@@ -466,7 +466,7 @@
       "2026-04-27": 442,
       "2026-05-29": 463,
       "2026-05-28": 89,
-      "2026-07-23": 1117,
+      "2026-07-23": 1146,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -556,9 +556,9 @@
     "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.39%",
-    "uptimeMonth": "82.60%",
-    "uptimeYear": "98.28%",
+    "uptimeWeek": "24.11%",
+    "uptimeMonth": "82.54%",
+    "uptimeYear": "98.27%",
     "time": 2125,
     "timeDay": 0,
     "timeWeek": 1997,
@@ -571,7 +571,7 @@
       "2026-07-18": 819,
       "2026-07-20": 1365,
       "2026-07-19": 1440,
-      "2026-07-23": 1118,
+      "2026-07-23": 1146,
       "2026-07-22": 1440,
       "2026-07-21": 1440
     }
