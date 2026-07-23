@@ -23,10 +23,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/skolskysport.sk.ico",
     "slug": "skolsky-sport",
     "status": "down",
-    "uptime": "74.29%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "95.14%",
+    "uptime": "74.28%",
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "95.00%",
     "uptimeYear": "85.05%",
     "time": 2520,
     "timeDay": 2360,
@@ -118,7 +118,7 @@
       "2026-07-01": 50,
       "2026-07-13": 375,
       "2026-07-12": 1183,
-      "2026-07-23": 15
+      "2026-07-23": 79
     }
   },
   {
@@ -144,19 +144,20 @@
     "url": "https://edicnyportal.iedu.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/edicnyportal.iedu.sk.ico",
     "slug": "edicny-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2191,
-    "timeDay": 1067,
-    "timeWeek": 1139,
-    "timeMonth": 3361,
-    "timeYear": 2437,
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 2220,
+    "timeDay": 8121,
+    "timeWeek": 3144,
+    "timeMonth": 3755,
+    "timeYear": 2471,
     "dailyMinutesDown": {
-      "2026-04-24": 16
+      "2026-04-24": 16,
+      "2026-07-23": 16
     }
   },
   {
@@ -313,10 +314,10 @@
     "slug": "statny-pedagogicky-ustav",
     "status": "down",
     "uptime": "97.79%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "95.19%",
-    "uptimeYear": "96.43%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "96.42%",
     "time": 1651,
     "timeDay": 1768,
     "timeWeek": 3068,
@@ -363,7 +364,7 @@
       "2026-07-01": 45,
       "2026-07-13": 376,
       "2026-07-12": 1178,
-      "2026-07-23": 7
+      "2026-07-23": 71
     }
   },
   {
@@ -452,7 +453,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.41%",
+    "uptimeYear": "85.40%",
     "time": 2939,
     "timeDay": 0,
     "timeWeek": 0,
@@ -465,7 +466,7 @@
       "2026-04-27": 442,
       "2026-05-29": 463,
       "2026-05-28": 89,
-      "2026-07-23": 1053,
+      "2026-07-23": 1117,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -555,9 +556,9 @@
     "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "25.02%",
-    "uptimeMonth": "82.75%",
-    "uptimeYear": "98.29%",
+    "uptimeWeek": "24.39%",
+    "uptimeMonth": "82.60%",
+    "uptimeYear": "98.28%",
     "time": 2125,
     "timeDay": 0,
     "timeWeek": 1997,
@@ -570,7 +571,7 @@
       "2026-07-18": 819,
       "2026-07-20": 1365,
       "2026-07-19": 1440,
-      "2026-07-23": 1053,
+      "2026-07-23": 1118,
       "2026-07-22": 1440,
       "2026-07-21": 1440
     }
