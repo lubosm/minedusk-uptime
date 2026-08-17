@@ -4,16 +4,16 @@
     "url": "https://www.minedu.sk/",
     "icon": "https://www.minedu.sk/favicon.ico",
     "slug": "ministerstvo-skolstva-vedy-vyskumu-a-sportu-slovenskej-republiky",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1073,
-    "timeDay": 866,
-    "timeWeek": 960,
-    "timeMonth": 918,
+    "timeDay": 933,
+    "timeWeek": 970,
+    "timeMonth": 921,
     "timeYear": 1072,
     "dailyMinutesDown": {}
   },
@@ -27,7 +27,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.07%",
-    "uptimeYear": "91.77%",
+    "uptimeYear": "91.81%",
     "time": 2507,
     "timeDay": 1939,
     "timeWeek": 2001,
@@ -112,7 +112,7 @@
     "timeDay": 2765,
     "timeWeek": 2829,
     "timeMonth": 3200,
-    "timeYear": 2646,
+    "timeYear": 2647,
     "dailyMinutesDown": {}
   },
   {
@@ -130,7 +130,7 @@
     "timeDay": 1030,
     "timeWeek": 1031,
     "timeMonth": 2863,
-    "timeYear": 2573,
+    "timeYear": 2578,
     "dailyMinutesDown": {
       "2026-04-24": 16,
       "2026-07-23": 28,
@@ -169,10 +169,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3667,
-    "timeDay": 7150,
+    "timeDay": 9902,
     "timeWeek": 6240,
     "timeMonth": 6127,
-    "timeYear": 3898,
+    "timeYear": 3899,
     "dailyMinutesDown": {}
   },
   {
@@ -190,7 +190,7 @@
     "timeDay": 2218,
     "timeWeek": 2424,
     "timeMonth": 2672,
-    "timeYear": 3448,
+    "timeYear": 3449,
     "dailyMinutesDown": {}
   },
   {
@@ -257,7 +257,7 @@
     "timeDay": 3541,
     "timeWeek": 3239,
     "timeMonth": 3276,
-    "timeYear": 3340,
+    "timeYear": 3341,
     "dailyMinutesDown": {
       "2026-07-28": 91
     }
@@ -301,7 +301,7 @@
     "timeDay": 1897,
     "timeWeek": 1959,
     "timeMonth": 2355,
-    "timeYear": 1791,
+    "timeYear": 1793,
     "dailyMinutesDown": {
       "2025-08-27": 22,
       "2025-09-15": 608,
@@ -362,7 +362,7 @@
     "timeDay": 2174,
     "timeWeek": 1800,
     "timeMonth": 2244,
-    "timeYear": 2116,
+    "timeYear": 2118,
     "dailyMinutesDown": {
       "2026-08-13": 303
     }
@@ -382,7 +382,7 @@
     "timeDay": 1495,
     "timeWeek": 1634,
     "timeMonth": 1537,
-    "timeYear": 1609,
+    "timeYear": 1610,
     "dailyMinutesDown": {
       "2026-03-05": 25,
       "2026-03-27": 18,
@@ -410,7 +410,7 @@
     "timeDay": 759,
     "timeWeek": 743,
     "timeMonth": 765,
-    "timeYear": 1006,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2026-01-31": 19,
       "2026-02-02": 152,
@@ -426,16 +426,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nucem.sk.ico",
     "slug": "narodny-ustav-certifikovanych-merani-vzdelavania",
     "status": "down",
-    "uptime": "95.02%",
+    "uptime": "95.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.54%",
+    "uptimeYear": "78.50%",
     "time": 2948,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3000,
+    "timeYear": 3002,
     "dailyMinutesDown": {
       "2026-04-01": 25,
       "2026-04-23": 39,
@@ -443,7 +443,7 @@
       "2026-04-27": 442,
       "2026-05-29": 463,
       "2026-05-28": 89,
-      "2026-08-17": 1196,
+      "2026-08-17": 1388,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -538,7 +538,7 @@
     "timeDay": 1947,
     "timeWeek": 1953,
     "timeMonth": 2096,
-    "timeYear": 1759,
+    "timeYear": 1760,
     "dailyMinutesDown": {
       "2025-09-28": 532,
       "2026-03-16": 142,
@@ -559,8 +559,8 @@
     "uptime": "97.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.32%",
-    "uptimeYear": "91.42%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "91.38%",
     "time": 2070,
     "timeDay": 0,
     "timeWeek": 0,
@@ -577,7 +577,7 @@
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
-      "2026-08-17": 1196,
+      "2026-08-17": 1388,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -618,7 +618,7 @@
     "timeDay": 1012,
     "timeWeek": 997,
     "timeMonth": 1069,
-    "timeYear": 1165,
+    "timeYear": 1166,
     "dailyMinutesDown": {
       "2025-11-05": 42,
       "2025-11-07": 408,
