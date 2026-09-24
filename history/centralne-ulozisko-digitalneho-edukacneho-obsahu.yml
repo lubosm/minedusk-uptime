@@ -1,7 +1,7 @@
 url: https://viki.iedu.sk
-status: up
-code: 200
-responseTime: 1214
-lastUpdated: 2026-09-24T01:15:31.587Z
+status: down
+code: 503
+responseTime: 586
+lastUpdated: 2026-09-24T15:30:54.556Z
 startTime: 2022-11-28T17:15:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
